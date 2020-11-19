@@ -1,1 +1,0 @@
-sportsdata_key = "a0de0efcb911479da3298edbcb866706"
