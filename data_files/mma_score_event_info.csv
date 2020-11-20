@@ -1,37 +1,405 @@
-,Event ID,Name,Short Name,Date Time,Total Fight
-0,103,UFC 246: McGregor vs. Cowboy,UFC 246,2020-01-18T19:00:00,11
-1,104,UFC Fight Night: Blaydes vs. Dos Santos,UFC Fight Night,2020-01-25T17:00:00,12
-2,105,UFC 247: Jones vs. Reyes,UFC 247,2020-02-08T18:30:00,12
-3,106,UFC Fight Night: Anderson vs. Blachowicz 2,UFC Fight Night,2020-02-15T17:00:00,13
-4,107,UFC Fight Night: Felder vs. Hooker,UFC Fight Night,2020-02-22T16:00:00,12
-5,108,UFC Fight Night: Benavidez vs. Figueiredo,UFC Fight Night,2020-02-29T17:00:00,12
-6,109,UFC 248: Adesanya vs. Romero,UFC 248,2020-03-07T19:00:00,11
-7,110,UFC Fight Night: Lee vs. Oliveira,UFC Fight Night,2020-03-14T15:00:00,12
-8,118,UFC 249: Ferguson vs. Gaethje,UFC 249,2020-05-09T18:00:00,11
-9,127,UFC Fight Night: Smith vs. Teixeira,UFC Fight Night,2020-05-13T18:00:00,10
-10,120,UFC Fight Night: Overeem vs. Harris,UFC Fight Night,2020-05-16T18:00:00,11
-11,128,UFC Fight Night: Woodley vs. Burns,UFC Fight Night,2020-05-30T18:00:00,11
-12,119,UFC 250: Nunes vs. Spencer,UFC 250,2020-06-06T18:00:00,12
-13,129,UFC Fight Night: Eye vs. Calvillo,UFC Fight Night,2020-06-13T19:00:00,10
-14,130,UFC Fight Night: Blaydes vs. Volkov,UFC Fight Night,2020-06-20T17:00:00,12
-15,131,UFC Fight Night: Poirier vs. Hooker,UFC Fight Night,2020-06-27T18:00:00,10
-16,121,UFC 251: Usman vs. Masvidal,UFC 251,2020-07-11T18:00:00,13
-17,132,UFC Fight Night: Kattar vs. Ige,UFC Fight Night,2020-07-15T19:00:00,11
-18,133,UFC Fight Night: Figueiredo vs. Benavidez 2,UFC Fight Night,2020-07-18T17:00:00,12
-19,134,UFC Fight Night: Whittaker vs. Till,UFC Fight Night,2020-07-25T17:00:00,15
-20,136,UFC Fight Night: Brunson vs. Shahbazyan,UFC Fight Night,2020-08-01T19:00:00,8
-21,141,UFC Fight Night: Lewis vs. Oleinik,UFC Fight Night,2020-08-08T18:00:00,12
-22,135,UFC 252: Miocic vs. Cormier 3,UFC 252,2020-08-15T19:00:00,11
-23,142,UFC Fight Night: Munhoz vs. Edgar,UFC Fight Night,2020-08-22T18:30:00,9
-24,143,UFC Fight Night: Smith vs. Rakic,UFC Fight Night,2020-08-29T18:00:00,10
-25,150,UFC Fight Night: Overeem vs. Sakai,UFC Fight Night,2020-09-05T19:00:00,7
-26,151,UFC Fight Night: Waterson vs. Hill,UFC Fight Night,2020-09-12T17:00:00,12
-27,146,UFC Fight Night: Covington vs. Woodley,UFC Fight Night,2020-09-19T17:00:00,14
-28,144,UFC 253: Adesanya vs. Costa,UFC 253,2020-09-26T19:00:00,11
-29,147,UFC Fight Night: Holm vs. Aldana,UFC Fight Night,2020-10-03T19:30:00,11
-30,155,UFC Fight Night: Moraes vs. Sandhagen,UFC Fight Night,2020-10-10T17:00:00,13
-31,154,UFC Fight Night: Ortega vs. The Korean Zombie,UFC Fight Night,2020-10-17T16:00:00,11
-32,145,UFC 254: Khabib vs. Gaethje,UFC 254,2020-10-24T11:00:00,12
-33,159,UFC Fight Night: Hall vs. Silva,UFC Fight Night,2020-10-31T16:00:00,11
-34,162,UFC Fight Night: Santos vs. Teixeira,UFC Fight Night,2020-11-07T19:30:00,10
-35,148,UFC Fight Night: Felder vs. Dos Anjos,UFC Fight Night,2020-11-14T17:00:00,9
+,Event ID,Fight Number,Fight ID,Weight Class,Card Segment,Referee,Rounds,Result Clock,Result Round,Result Type,Winner ID
+0,103,1,1151,Welterweight,Main Card,Herb Dean,5,64,3,Scrambled,140000867.0
+1,103,2,1150,Women's Bantamweight,Main Card,Jason Herzog,3,483,8,Scrambled,140000447.0
+2,103,3,1149,Heavyweight,Main Card,Keith Peterson,3,447,5,Scrambled,140000288.0
+3,103,4,1140,Bantamweight,Main Card,Mark Smith,3,272,3,Scrambled,140000702.0
+4,103,5,1147,Lightweight,Main Card,Herb Dean,3,171,5,Scrambled,140000102.0
+5,103,6,1146,Women's Flyweight,Prelims,Jason Herzog,3,483,8,Scrambled,140000281.0
+6,103,7,1145,Featherweight,Prelims,Chris Tognoni,3,483,8,Scrambled,140000237.0
+7,103,8,1141,Flyweight,Prelims,Keith Peterson,3,483,8,Scrambled,140000614.0
+8,103,9,1144,Lightweight,Prelims,Mark Smith,3,113,3,Scrambled,140000164.0
+9,103,10,1142,Light Heavyweight,Early Prelims,Herb Dean,3,483,8,Scrambled,140000513.0
+10,103,11,1139,Women's Flyweight,Early Prelims,Chris Tognoni,3,483,8,Scrambled,140000225.0
+11,104,1,1163,Heavyweight,Main Card,Dan Miragliotta,5,38,1,Scrambled,140000218.0
+12,104,2,1162,Welterweight,Main Card,Kevin MacDonald,3,172,1,Scrambled,140000444.0
+13,104,3,1160,Flyweight,Main Card,Dan Miragliotta,3,88,0,Scrambled,140000222.0
+14,104,4,1159,Women's Strawweight,Main Card,Kevin MacDonald,3,153,1,Scrambled,140000203.0
+15,104,5,1158,Light Heavyweight,Main Card,Dan Miragliotta,3,172,1,Scrambled,140000491.0
+16,104,6,1156,Middleweight,Prelims,Kevin MacDonald,3,172,1,Scrambled,140000393.0
+17,104,7,1262,Featherweight,Prelims,Wayne Spinola,3,172,1,Scrambled,140000185.0
+18,104,8,1157,Women's Flyweight,Prelims,Kevin MacDonald,3,172,1,Scrambled,140000671.0
+19,104,9,1155,Bantamweight,Prelims,Dan Miragliotta,3,172,1,Scrambled,140000253.0
+20,104,10,1154,Women's Bantamweight,Prelims,Larry Carter,3,172,1,Scrambled,140000701.0
+21,104,11,1153,Bantamweight,Prelims,Wayne Spinola,3,99,1,Scrambled,140000735.0
+22,104,12,1152,Featherweight,Prelims,Larry Carter,3,94,0,Scrambled,140000526.0
+23,105,1,1171,Light Heavyweight,Main Card,Dan Miragliotta,5,138,1,Scrambled,140000146.0
+24,105,2,1170,Women's Flyweight,Main Card,Jacob Montalvo,5,29,1,Scrambled,140000402.0
+25,105,3,1167,Heavyweight,Main Card,Jeff Rexroad,3,55,0,Scrambled,140000627.0
+26,105,4,1166,Featherweight,Main Card,Kerry Hatley,3,138,1,Scrambled,140000178.0
+27,105,5,1169,Heavyweight,Main Card,Dan Miragliotta,3,138,1,Scrambled,140000173.0
+28,105,6,1164,Middleweight,Prelims,Jacob Montalvo,3,138,1,Scrambled,140000353.0
+29,105,7,1168,Women's Flyweight,Prelims,Jeff Rexroad,3,138,1,Scrambled,140000517.0
+30,105,8,1253,Welterweight,Prelims,Kerry Hatley,3,12,0,Scrambled,140000894.0
+31,105,9,1252,Bantamweight,Prelims,Dan Miragliotta,3,46,0,Scrambled,140000008.0
+32,105,10,1251,Bantamweight,Early Prelims,Jacob Montalvo,3,17,0,Scrambled,
+33,105,11,1263,Bantamweight,Early Prelims,Kerry Hatley,3,138,1,Scrambled,140000419.0
+34,105,12,1298,Featherweight,Early Prelims,Jeff Rexroad,3,138,1,Scrambled,140000895.0
+35,106,1,1180,Light Heavyweight,Main Card,Herb Dean,5,169,1,Scrambled,140000123.0
+36,106,2,1179,Welterweight,Main Card,Jason Herzog,3,170,2,Scrambled,140000131.0
+37,106,3,1174,Women's Flyweight,Main Card,Joe Coca,3,270,2,Scrambled,140000067.0
+38,106,4,1245,Lightweight,Main Card,Robert Romero,3,218,1,Scrambled,140000547.0
+39,106,5,1173,Flyweight,Main Card,Herb Dean,3,270,2,Scrambled,140000226.0
+40,106,6,1177,Lightweight,Main Card,Jason Herzog,3,270,2,Scrambled,140000071.0
+41,106,7,1260,Welterweight,Prelims,Herb Dean,3,196,2,Scrambled,140000508.0
+42,106,8,1178,Bantamweight,Prelims,Joe Coca,3,14,2,Scrambled,140000115.0
+43,106,9,1255,Lightweight,Prelims,Robert Romero,3,270,2,Scrambled,140000080.0
+44,106,10,1175,Light Heavyweight,Prelims,Jason Herzog,3,270,2,Scrambled,140000371.0
+45,106,11,1254,Bantamweight,Prelims,Joe Coca,3,270,2,Scrambled,140000325.0
+46,106,12,1176,Women's Bantamweight,Prelims,Herb Dean,3,270,2,Scrambled,140000128.0
+47,106,13,1315,Flyweight,Prelims,Robert Romero,3,254,2,Scrambled,140000060.0
+48,107,1,1192,Lightweight,Main Card,Marc Goddard,5,499,14,Scrambled,140000487.0
+49,107,2,1187,Light Heavyweight,Main Card,John Sharp,3,347,3,Scrambled,140000066.0
+50,107,3,1186,Women's Strawweight,Main Card,Mark Craig,3,499,8,Scrambled,140000394.0
+51,107,4,1189,Heavyweight,Main Card,Neil Swailes,3,146,3,Scrambled,140000122.0
+52,107,5,1188,Lightweight,Main Card,John Sharp,3,499,8,Scrambled,140000625.0
+53,107,6,1182,Featherweight,Prelims,Marc Goddard,3,334,3,Scrambled,140000598.0
+54,107,7,1181,Lightweight,Prelims,Mark Craig,3,301,6,Scrambled,140000056.0
+55,107,8,1191,Welterweight,Prelims,John Sharp,3,499,8,Scrambled,140000628.0
+56,107,9,1185,Welterweight,Prelims,Neil Swailes,3,233,3,Scrambled,140000590.0
+57,107,10,1183,Flyweight,Prelims,Marc Goddard,3,499,8,Scrambled,140000059.0
+58,107,11,1250,Women's Strawweight,Prelims,John Sharp,3,499,8,Scrambled,140000203.0
+59,107,12,1184,Women's Flyweight,Prelims,Neil Swailes,3,66,3,Scrambled,140000177.0
+60,108,1,1200,Flyweight,Main Card,Dan Miragliotta,5,180,5,Scrambled,140000215.0
+61,108,2,1196,Women's Featherweight,Main Card,Dan Miragliotta,3,342,2,Scrambled,140000365.0
+62,108,3,1318,Light Heavyweight,Main Card,Kevin MacDonald,3,60,2,Scrambled,140000113.0
+63,108,4,1199,Women's Featherweight,Main Card,Kevin MacDonald,3,333,2,Scrambled,140000364.0
+64,108,5,1268,Featherweight,Main Card,Kevin MacDonald,3,155,5,Scrambled,140000156.0
+65,108,6,1195,Bantamweight,Prelims,Dan Miragliotta,3,473,7,Scrambled,140000890.0
+66,108,7,1197,Middleweight,Prelims,Bill Bookwalter,3,453,2,Scrambled,140000472.0
+67,108,8,1236,Heavyweight,Prelims,Bill Bookwalter,3,473,7,Scrambled,140000272.0
+68,108,9,1247,Lightweight,Prelims,Mike King,3,473,7,Scrambled,140000213.0
+69,108,10,1194,Featherweight,Prelims,Mike King,3,344,5,Scrambled,140000603.0
+70,108,11,1193,Featherweight,Prelims,Scott Howard,3,134,2,Scrambled,140000900.0
+71,108,12,1240,Welterweight,Prelims,Scott Howard,3,473,7,Scrambled,140000882.0
+72,109,1,1261,Middleweight,Main Card,Dan Miragliotta,5,508,14,Scrambled,140000074.0
+73,109,2,1205,Women's Strawweight,Main Card,Keith Peterson,5,508,14,Scrambled,140000141.0
+74,109,3,1270,Lightweight,Main Card,Jason Herzog,3,102,6,Scrambled,140000165.0
+75,109,4,1243,Welterweight,Main Card,Keith Peterson,3,508,9,Scrambled,140000752.0
+76,109,5,1256,Welterweight,Main Card,Mark Smith,3,508,9,Scrambled,140000306.0
+77,109,6,1313,Bantamweight,Prelims,Dan Miragliotta,3,206,3,Scrambled,140000711.0
+78,109,7,1290,Lightweight,Prelims,Chris Tognoni,3,508,9,Scrambled,140000621.0
+79,109,8,1244,Middleweight,Prelims,Jason Herzog,3,301,3,Scrambled,140000537.0
+80,109,9,1289,Middleweight,Prelims,Keith Peterson,3,225,9,Scrambled,140000228.0
+81,109,10,1285,Featherweight,Early Prelims,Mark Smith,3,508,9,Scrambled,140000617.0
+82,109,11,1238,Bantamweight,Early Prelims,Chris Tognoni,3,306,3,Scrambled,140000583.0
+83,110,1,1214,Lightweight,Main Card,Mike Beltran,5,21,2,Scrambled,140000045.0
+84,110,2,1264,Welterweight,Main Card,Osiris Maia,3,118,1,Scrambled,140000294.0
+85,110,3,1267,Lightweight,Main Card,Eduardo Herdy,3,34,1,Scrambled,140000050.0
+86,110,4,1212,Light Heavyweight,Main Card,Mike Beltran,3,229,2,Scrambled,140000261.0
+87,110,5,1246,Lightweight,Main Card,Osiris Maia,3,229,2,Scrambled,140000486.0
+88,110,6,1210,Flyweight,Prelims,Eduardo Herdy,3,229,2,Scrambled,140000613.0
+89,110,7,1209,Women's Strawweight,Prelims,Camila Albuquerque,3,229,2,Scrambled,140000432.0
+90,110,8,1213,Welterweight,Prelims,Osiris Maia,3,229,2,Scrambled,140000170.0
+91,110,9,1208,Bantamweight,Prelims,Julio Catarino,3,229,2,Scrambled,
+92,110,10,1265,Women's Flyweight,Prelims,Camila Albuquerque,3,229,2,Scrambled,140000224.0
+93,110,11,1266,Flyweight,Prelims,Julio Catarino,3,229,2,Scrambled,140000901.0
+94,110,12,1207,Women's Bantamweight,Prelims,Mike Beltran,3,229,2,Scrambled,140000374.0
+95,118,1,1413,Lightweight,Main Card,Herb Dean,5,189,4,Scrambled,140000247.0
+96,118,2,1412,Bantamweight,Main Card,Keith Peterson,5,257,1,Scrambled,140000026.0
+97,118,3,1411,Heavyweight,Main Card,Dan Miragliotta,3,17,1,Scrambled,140000098.0
+98,118,4,1410,Featherweight,Main Card,Jason Herzog,3,146,1,Scrambled,140000396.0
+99,118,5,1409,Heavyweight,Main Card,Herb Dean,3,258,2,Scrambled,140000023.0
+100,118,6,1408,Welterweight,Prelims,Keith Peterson,3,258,2,Scrambled,140000220.0
+101,118,7,1407,Heavyweight,Prelims,Herb Dean,3,258,2,Scrambled,140000288.0
+102,118,8,1406,Women's Strawweight,Prelims,Dan Miragliotta,3,258,2,Scrambled,140000296.0
+103,118,9,1404,Welterweight,Prelims,Jason Herzog,3,187,2,Scrambled,140000089.0
+104,118,10,1403,Featherweight,Early Prelims,Keith Peterson,3,258,2,Scrambled,140000209.0
+105,118,11,1402,Light Heavyweight,Early Prelims,Dan Miragliotta,3,258,2,Scrambled,140000343.0
+106,127,1,1416,Light Heavyweight,Main Card,Jason Herzog,5,111,15,Scrambled,140000015.0
+107,127,2,1415,Heavyweight,Main Card,Dan Miragliotta,3,519,9,Scrambled,140000166.0
+108,127,3,1431,Lightweight,Main Card,Herb Dean,3,458,6,Scrambled,140000164.0
+109,127,4,1429,Bantamweight,Main Card,Keith Peterson,3,519,9,Scrambled,140000070.0
+110,127,5,1428,Heavyweight,Main Card,Herb Dean,3,519,9,Scrambled,140000298.0
+111,127,6,1427,Lightweight,Main Card,Keith Peterson,3,43,6,Scrambled,140000341.0
+112,127,7,1426,Women's Bantamweight,Prelims,Michael Cardoso,3,519,9,Scrambled,140000360.0
+113,127,8,1434,Lightweight,Prelims,Dan Miragliotta,3,519,9,Scrambled,140000530.0
+114,127,9,1425,Featherweight,Prelims,Jason Herzog,3,380,6,Scrambled,140000702.0
+115,127,10,1433,Heavyweight,Prelims,Michael Cardoso,3,85,6,Scrambled,140000736.0
+116,120,1,1343,Heavyweight,Main Card,Dan Miragliotta,5,291,5,Scrambled,140000287.0
+117,120,2,1414,Women's Strawweight,Main Card,Keith Peterson,3,484,8,Scrambled,140000441.0
+118,120,3,1424,Featherweight,Main Card,Jason Herzog,3,484,8,Scrambled,140000178.0
+119,120,4,1423,Middleweight,Main Card,Herb Dean,3,484,8,Scrambled,140000279.0
+120,120,5,1422,Featherweight,Main Card,Dan Miragliotta,3,484,8,Scrambled,140000440.0
+121,120,6,1435,Welterweight,Prelims,Jason Herzog,3,29,5,Scrambled,140000423.0
+122,120,7,1421,Middleweight,Prelims,Michael Cardoso,3,63,3,Scrambled,140000229.0
+123,120,8,1420,Featherweight,Prelims,Keith Peterson,3,484,8,Scrambled,140000617.0
+124,120,9,1418,Featherweight,Prelims,Herb Dean,3,484,8,Scrambled,140000889.0
+125,120,10,1419,Women's Flyweight,Prelims,Michael Cardoso,3,349,3,Scrambled,140000093.0
+126,120,11,1417,Heavyweight,Prelims,Dan Miragliotta,3,202,5,Scrambled,140000506.0
+127,128,1,1444,Welterweight,Main Card,Herb Dean,5,453,11,Scrambled,140000294.0
+128,128,2,1449,Heavyweight,Main Card,Jason McCoy,3,453,7,Scrambled,140000299.0
+129,128,3,1445,Catch Weight,Main Card,Mark Smith,3,453,7,Scrambled,140000488.0
+130,128,4,1447,Lightweight,Main Card,Herb Dean,3,311,5,Scrambled,140000303.0
+131,128,5,1446,Women's Strawweight,Main Card,Jason Herzog,3,236,2,Scrambled,140000633.0
+132,128,6,1443,Women's Flyweight,Prelims,Chris Tognoni,3,453,7,Scrambled,140000389.0
+133,128,7,1448,Welterweight,Prelims,Mark Smith,3,453,7,Scrambled,140000508.0
+134,128,8,1453,Light Heavyweight,Prelims,Herb Dean,3,168,2,Scrambled,140000491.0
+135,128,9,1452,Flyweight,Prelims,Mark Smith,3,299,5,Scrambled,140000910.0
+136,128,10,1451,Bantamweight,Prelims,Chris Tognoni,3,276,2,Scrambled,140000227.0
+137,128,11,1450,Featherweight,Prelims,Jason Herzog,3,403,5,Scrambled,140000200.0
+138,119,1,1344,Women's Featherweight,Main Card,Herb Dean,5,293,5,Scrambled,140000446.0
+139,119,2,1441,Bantamweight,Main Card,Keith Peterson,3,292,2,Scrambled,140000139.0
+140,119,3,1458,Bantamweight,Main Card,Chris Tognoni,3,86,1,Scrambled,140000086.0
+141,119,4,1457,Welterweight,Main Card,Mark Smith,3,293,3,Scrambled,140000752.0
+142,119,5,1456,Bantamweight,Main Card,Herb Dean,3,111,1,Scrambled,140000711.0
+143,119,6,1455,Featherweight,Prelims,Keith Peterson,3,293,3,Scrambled,140000091.0
+144,119,7,1438,Middleweight,Prelims,Chris Tognoni,3,72,1,Scrambled,140000367.0
+145,119,8,1454,Featherweight,Prelims,Mark Smith,3,293,3,Scrambled,140000134.0
+146,119,9,1437,Middleweight,Prelims,Herb Dean,3,68,2,Scrambled,140000450.0
+147,119,10,1440,Flyweight,Early Prelims,Keith Peterson,3,240,1,Scrambled,140000222.0
+148,119,11,1439,Light Heavyweight,Early Prelims,Mark Smith,3,293,3,Scrambled,140000371.0
+149,119,12,1459,Catch Weight,Early Prelims,Chris Tognoni,3,78,1,Scrambled,140000526.0
+150,129,1,1461,Women's Flyweight,Main Card,Herb Dean,5,488,13,Scrambled,140000094.0
+151,129,2,1471,Middleweight,Main Card,Dan Miragliotta,3,418,3,Scrambled,140000467.0
+152,129,3,1467,Lightweight,Main Card,Mark Smith,3,488,8,Scrambled,140000881.0
+153,129,4,1469,Featherweight,Main Card,Chris Tognoni,3,488,8,Scrambled,140000088.0
+154,129,5,1468,Bantamweight,Main Card,Herb Dean,3,488,8,Scrambled,140000199.0
+155,129,6,1460,Women's Flyweight,Main Card,Dan Miragliotta,3,263,3,Scrambled,140000510.0
+156,129,7,1470,Catch Weight,Prelims,Mark Smith,3,488,8,Scrambled,140000325.0
+157,129,8,1466,Women's Bantamweight,Prelims,Chris Tognoni,3,36,3,Scrambled,140000439.0
+158,129,9,1465,Bantamweight,Prelims,Herb Dean,3,52,3,Scrambled,140000608.0
+159,129,10,1472,Welterweight,Prelims,Dan Miragliotta,3,96,3,Scrambled,140000914.0
+160,130,1,1463,Heavyweight,Main Card,,5,249,3,Scrambled,140000218.0
+161,130,2,1494,Featherweight,Main Card,Jason Herzog,3,249,2,Scrambled,140000243.0
+162,130,3,1491,Women's Bantamweight,Main Card,Mark Smith,3,249,2,Scrambled,140000485.0
+163,130,4,1493,Welterweight,Main Card,Chris Tognoni,3,249,2,Scrambled,140000004.0
+164,130,5,1492,Catch Weight,Main Card,Herb Dean,3,120,1,Scrambled,140000292.0
+165,130,6,1488,Lightweight,Prelims,Jason Herzog,3,249,2,Scrambled,140000649.0
+166,130,7,1490,Women's Strawweight,Prelims,Mark Smith,3,249,2,Scrambled,140000140.0
+167,130,8,1501,Middleweight,Prelims,Chris Tognoni,3,241,1,Scrambled,140000322.0
+168,130,9,1462,Women's Flyweight,Prelims,Jason Herzog,3,229,2,Scrambled,140000108.0
+169,130,10,1489,Lightweight,Prelims,Herb Dean,3,34,1,Scrambled,140000921.0
+170,130,11,1500,Women's Flyweight,Prelims,Chris Tognoni,3,249,2,Scrambled,140000517.0
+171,130,12,1499,Lightweight,Prelims,Mark Smith,3,249,1,Scrambled,140000362.0
+172,131,1,1478,Lightweight,Main Card,Herb Dean,5,159,1,Scrambled,140000266.0
+173,131,2,1498,Welterweight,Main Card,Keith Peterson,3,159,1,Scrambled,140000307.0
+174,131,3,1496,Heavyweight,Main Card,Mark Smith,3,118,1,Scrambled,140000154.0
+175,131,4,1497,Middleweight,Main Card,Chris Tognoni,3,159,1,Scrambled,140000472.0
+176,131,5,1544,Welterweight,Main Card,Chris Tognoni,3,25,0,Scrambled,140000301.0
+177,131,6,1502,Catch Weight,Main Card,Keith Peterson,3,87,1,Scrambled,140000157.0
+178,131,7,1504,Lightweight,Prelims,Mark Smith,3,92,1,Scrambled,140000553.0
+179,131,8,1503,Heavyweight,Prelims,Herb Dean,3,85,0,Scrambled,140000638.0
+180,131,9,1546,Women's Strawweight,Prelims,Keith Peterson,3,77,1,Scrambled,140000930.0
+181,131,10,1543,Featherweight,Prelims,Herb Dean,3,159,1,Scrambled,140000895.0
+182,121,1,1359,Welterweight,Main Card,Marc Goddard,5,374,8,Scrambled,140000145.0
+183,121,2,1476,Featherweight,Main Card,Herb Dean,5,374,8,Scrambled,140000347.0
+184,121,3,1475,Bantamweight,Main Card,Leon Roberts,5,254,8,Scrambled,140000116.0
+185,121,4,1474,Women's Strawweight,Main Card,Daniel Movahedi,3,374,5,Scrambled,140000350.0
+186,121,5,1473,Women's Flyweight,Main Card,Rich Mitchell,3,176,2,Scrambled,140000432.0
+187,121,6,1357,Light Heavyweight,Prelims,Marc Goddard,3,61,3,Scrambled,140000918.0
+188,121,7,1514,Welterweight,Prelims,Herb Dean,3,374,5,Scrambled,140000594.0
+189,121,8,1513,Featherweight,Prelims,Leon Roberts,3,243,2,Scrambled,140000385.0
+190,121,9,1512,Lightweight,Prelims,Marc Goddard,3,374,5,Scrambled,140000377.0
+191,121,10,1511,Heavyweight,Prelims,Herb Dean,3,374,5,Scrambled,140000272.0
+192,121,11,1510,Flyweight,Prelims,Leon Roberts,3,374,5,Scrambled,140000060.0
+193,121,12,1509,Women's Bantamweight,Prelims,Daniel Movahedi,3,374,5,Scrambled,140000580.0
+194,121,13,1508,Bantamweight,Prelims,Rich Mitchell,3,197,5,Scrambled,140000644.0
+195,132,1,1480,Featherweight,Main Card,Herb Dean,5,160,1,Scrambled,140000396.0
+196,132,2,1523,Flyweight,Main Card,Marc Goddard,3,160,1,Scrambled,140000632.0
+197,132,3,1522,Featherweight,Main Card,Daniel Movahedi,3,160,1,Scrambled,140000085.0
+198,132,4,1519,Women's Flyweight,Main Card,Rich Mitchell,3,160,1,Scrambled,140000037.0
+199,132,5,1521,Welterweight,Main Card,Daniel Movahedi,3,160,1,Scrambled,140000924.0
+200,132,6,1517,Middleweight,Prelims,Herb Dean,3,38,1,Scrambled,140000941.0
+201,132,7,1518,Featherweight,Prelims,Rich Mitchell,3,138,0,Scrambled,140000599.0
+202,132,8,1479,Light Heavyweight,Prelims,Daniel Movahedi,3,160,0,Scrambled,140000922.0
+203,132,9,1520,Featherweight,Prelims,Marc Goddard,3,160,1,Scrambled,140000435.0
+204,132,10,1516,Women's Flyweight,Prelims,Rich Mitchell,3,87,0,Scrambled,140000597.0
+205,132,11,1515,Bantamweight,Prelims,Herb Dean,3,80,1,Scrambled,140000616.0
+206,133,1,1482,Flyweight,Main Card,Marc Goddard,5,238,1,Scrambled,140000215.0
+207,133,2,1533,Middleweight,Main Card,Herb Dean,3,64,1,Scrambled,140000245.0
+208,133,3,1532,Lightweight,Main Card,Rich Mitchell,3,248,2,Scrambled,140000269.0
+209,133,4,1531,Women's Flyweight,Main Card,Daniel Movahedi,3,73,1,Scrambled,140000012.0
+210,133,5,1530,Flyweight,Main Card,Marc Goddard,3,248,2,Scrambled,140000614.0
+211,133,6,1481,Light Heavyweight,Prelims,Herb Dean,3,211,1,Scrambled,140000923.0
+212,133,7,1529,Catch Weight,Prelims,Daniel Movahedi,3,248,2,Scrambled,140000156.0
+213,133,8,1528,Lightweight,Prelims,Marc Goddard,3,120,1,Scrambled,140000100.0
+214,133,9,1527,Bantamweight,Prelims,Daniel Movahedi,3,248,2,Scrambled,140000735.0
+215,133,10,1526,Bantamweight,Prelims,Herb Dean,3,233,1,Scrambled,140000946.0
+216,133,11,1525,Lightweight,Prelims,Daniel Movahedi,3,248,2,Scrambled,140000286.0
+217,133,12,1524,Heavyweight,Prelims,Rich Mitchell,3,248,2,Scrambled,140000324.0
+218,134,1,1484,Middleweight,Main Card,Herb Dean,5,407,9,Scrambled,140000630.0
+219,134,2,1542,Light Heavyweight,Main Card,Marc Goddard,3,407,6,Scrambled,140000819.0
+220,134,3,1540,Heavyweight,Main Card,Herb Dean,3,204,2,Scrambled,140000720.0
+221,134,4,1547,Women's Strawweight,Main Card,Rich Mitchell,3,407,6,Scrambled,140000296.0
+222,134,5,1550,Light Heavyweight,Main Card,Marc Goddard,3,171,2,Scrambled,140000238.0
+223,134,6,1541,Welterweight,Main Card,Daniel Movahedi,3,407,6,Scrambled,140000306.0
+224,134,7,1555,Welterweight,Main Card,Rich Mitchell,3,256,2,Scrambled,140000941.0
+225,134,8,1549,Lightweight,Prelims,Herb Dean,3,122,6,Scrambled,140000486.0
+226,134,9,1539,Welterweight,Prelims,Marc Goddard,3,228,2,Scrambled,140000944.0
+227,134,10,1483,Heavyweight,Prelims,Daniel Movahedi,3,61,2,Scrambled,140000892.0
+228,134,11,1537,Featherweight,Prelims,Marc Goddard,3,407,6,Scrambled,140000277.0
+229,134,12,1538,Heavyweight,Prelims,Herb Dean,3,212,4,Scrambled,140000638.0
+230,134,13,1536,Women's Bantamweight,Prelims,Rich Mitchell,3,407,6,Scrambled,140000438.0
+231,134,14,1534,Welterweight,Prelims,Daniel Movahedi,3,407,6,Scrambled,140000738.0
+232,134,15,1535,Bantamweight,Prelims,Marc Goddard,3,407,6,Scrambled,140000191.0
+233,136,1,1506,Middleweight,Main Card,Herb Dean,3,42,8,Scrambled,140000329.0
+234,136,2,1571,Women's Flyweight,Main Card,Jason Herzog,3,435,3,Scrambled,140000205.0
+235,136,3,1570,Welterweight,Main Card,Mark Smith,3,479,5,Scrambled,140000089.0
+236,136,4,1569,Lightweight,Main Card,Herb Dean,3,485,8,Scrambled,140000649.0
+237,136,5,1505,Bantamweight,Prelims,Chris Tognoni,3,92,8,Scrambled,140000054.0
+238,136,6,1597,Featherweight,Prelims,Mark Smith,3,485,8,Scrambled,140000961.0
+239,136,7,1564,Featherweight,Prelims,Jason Herzog,3,485,8,Scrambled,140000783.0
+240,136,8,1572,Bantamweight,Prelims,Chris Tognoni,3,485,8,Scrambled,
+241,141,1,1584,Heavyweight,Main Card,Herb Dean,5,25,3,Scrambled,140000173.0
+242,141,2,1596,Middleweight,Main Card,Jason Herzog,3,353,4,Scrambled,140000639.0
+243,141,3,1595,Middleweight,Main Card,Chris Tognoni,3,260,1,Scrambled,140000392.0
+244,141,4,1594,Women's Bantamweight,Main Card,Mark Smith,3,353,4,Scrambled,140000159.0
+245,141,5,1593,Lightweight,Main Card,Herb Dean,3,327,1,Scrambled,140000165.0
+246,141,6,1592,Welterweight,Prelims,Jason Herzog,3,353,4,Scrambled,140000168.0
+247,141,7,1604,Middleweight,Prelims,Mark Smith,3,38,4,Scrambled,140000229.0
+248,141,8,1591,Lightweight,Prelims,Chris Tognoni,3,353,4,Scrambled,140000520.0
+249,141,9,1590,Middleweight,Prelims,Herb Dean,3,299,1,Scrambled,140000321.0
+250,141,10,1589,Featherweight,Prelims,Jason Herzog,3,121,4,Scrambled,140000499.0
+251,141,11,1588,Featherweight,Prelims,Mark Smith,3,353,4,Scrambled,140000895.0
+252,141,12,1577,Bantamweight,Prelims,Chris Tognoni,3,353,4,Scrambled,140000909.0
+253,135,1,1487,Heavyweight,Main Card,Marc Goddard,5,373,8,Scrambled,140000558.0
+254,135,2,1551,Bantamweight,Main Card,Herb Dean,3,348,2,Scrambled,140000207.0
+255,135,3,1554,Heavyweight,Main Card,Dan Miragliotta,3,282,3,Scrambled,140000034.0
+256,135,4,1607,Featherweight,Main Card,Mark Smith,3,344,3,Scrambled,140000931.0
+257,135,5,1603,Bantamweight,Main Card,Chris Tognoni,3,373,5,Scrambled,140000325.0
+258,135,6,1486,Lightweight,Prelims,Herb Dean,3,373,5,Scrambled,140000437.0
+259,135,7,1606,Women's Strawweight,Prelims,Marc Goddard,3,129,2,Scrambled,140000297.0
+260,135,8,1485,Featherweight,Prelims,Dan Miragliotta,3,373,5,Scrambled,140000990.0
+261,135,9,1608,Women's Strawweight,Prelims,Mark Smith,3,373,5,Scrambled,140000041.0
+262,135,10,1611,Heavyweight,Early Prelims,Herb Dean,3,333,2,Scrambled,140000992.0
+263,135,11,1617,Featherweight,Early Prelims,Chris Tognoni,3,373,5,Scrambled,140001002.0
+264,142,1,1598,Bantamweight,Main Card,Herb Dean,5,416,10,Scrambled,140000504.0
+265,142,2,1624,Light Heavyweight,Main Card,Jason Herzog,3,190,2,Scrambled,140000464.0
+266,142,3,1622,Lightweight,Main Card,Herb Dean,3,320,2,Scrambled,140000457.0
+267,142,4,1623,Women's Flyweight,Main Card,,3,136,4,Scrambled,140000551.0
+268,142,5,1578,Welterweight,Main Card,Chris Tognoni,3,199,2,Scrambled,140000508.0
+269,142,6,1616,Women's Strawweight,Prelims,Jason Herzog,3,416,6,Scrambled,140000886.0
+270,142,7,1620,Light Heavyweight,Prelims,Jason Herzog,3,126,2,Scrambled,140000772.0
+271,142,8,1618,Welterweight,Prelims,Mark Smith,3,416,6,Scrambled,140001006.0
+272,142,9,1619,Catch Weight,Prelims,Chris Tognoni,3,165,4,Scrambled,140001010.0
+273,143,1,1580,Light Heavyweight,Main Card,Herb Dean,3,442,7,Scrambled,140000387.0
+274,143,2,1639,Welterweight,Main Card,Jason Herzog,3,442,7,Scrambled,140000752.0
+275,143,3,1638,Women's Flyweight,Main Card,Chris Tognoni,3,442,7,Scrambled,140000397.0
+276,143,4,1637,Featherweight,Main Card,Mark Smith,3,442,7,Scrambled,140000395.0
+277,143,5,1579,Middleweight,Prelims,Jason Herzog,3,442,7,Scrambled,140000577.0
+278,143,6,1634,Middleweight,Prelims,Mark Smith,3,442,7,Scrambled,140000352.0
+279,143,7,1633,Featherweight,Prelims,Chris Tognoni,3,322,2,Scrambled,140000091.0
+280,143,8,1630,Welterweight,Prelims,Herb Dean,3,158,4,Scrambled,140000882.0
+281,143,9,1631,Women's Strawweight,Prelims,Jason Herzog,3,167,2,Scrambled,140000126.0
+282,143,10,1635,Women's Strawweight,Prelims,Chris Tognoni,3,137,4,Scrambled,140000562.0
+283,150,1,1651,Heavyweight,Main Card,Herb Dean,5,23,4,Scrambled,140000287.0
+284,150,2,1670,Light Heavyweight,Main Card,Jason Herzog,3,222,2,Scrambled,140000260.0
+285,150,3,1668,Welterweight,Main Card,Chris Tognoni,3,251,2,Scrambled,140000357.0
+286,150,4,1650,Middleweight,Main Card,Mark Smith,3,145,1,Scrambled,140000524.0
+287,150,5,1685,Featherweight,Main Card,Herb Dean,3,35,1,Scrambled,140000702.0
+288,150,6,1665,Women's Flyweight,Main Card,Jason Herzog,3,269,2,Scrambled,140000333.0
+289,150,7,1663,Bantamweight,Main Card,Mark Smith,3,269,2,Scrambled,140000453.0
+290,151,1,1686,Women's Strawweight,Main Card,Marc Goddard,5,139,1,Scrambled,140000240.0
+291,151,2,1699,Lightweight,Main Card,Herb Dean,3,43,0,Scrambled,140000596.0
+292,151,3,1698,Women's Flyweight,Main Card,Mark Smith,3,139,1,Scrambled,140000281.0
+293,151,4,1697,Light Heavyweight,Main Card,Chris Tognoni,3,74,1,Scrambled,140000354.0
+294,151,5,1703,Lightweight,Main Card,Herb Dean,3,139,1,Scrambled,140000649.0
+295,151,6,1693,Featherweight,Main Card,Marc Goddard,3,1,1,Scrambled,140000488.0
+296,151,7,1705,Women's Bantamweight,Prelims,Mark Smith,3,139,1,Scrambled,140000360.0
+297,151,8,1704,Lightweight,Prelims,Chris Tognoni,3,14,0,Scrambled,140001017.0
+298,151,9,1708,Heavyweight,Prelims,Mark Smith,3,121,0,Scrambled,140000903.0
+299,151,10,1702,Catch Weight,Prelims,Herb Dean,3,120,0,Scrambled,140000056.0
+300,151,11,1701,Welterweight,Prelims,Chris Tognoni,3,139,1,Scrambled,140000090.0
+301,151,12,1700,Women's Flyweight,Prelims,Marc Goddard,3,109,1,Scrambled,140000225.0
+302,146,1,1644,Welterweight,Main Card,Dan Miragliotta,5,61,3,Scrambled,140000521.0
+303,146,2,1718,Welterweight,Main Card,Jason Herzog,3,230,2,Scrambled,
+304,146,3,1717,Middleweight,Main Card,Mark Smith,3,13,1,Scrambled,140000941.0
+305,146,4,1716,Light Heavyweight,Main Card,Dan Miragliotta,3,125,1,Scrambled,140000043.0
+306,146,5,1662,Women's Strawweight,Main Card,Jason Herzog,3,172,1,Scrambled,140000633.0
+307,146,6,1715,Middleweight,Main Card,Mark Smith,3,230,2,Scrambled,140000229.0
+308,146,7,1643,Flyweight,Prelims,Jason Herzog,3,230,2,Scrambled,140000901.0
+309,146,8,1713,Featherweight,Prelims,Dan Miragliotta,3,62,2,Scrambled,140001041.0
+310,146,9,1712,Women's Flyweight,Prelims,Jason Herzog,3,114,1,Scrambled,140000842.0
+311,146,10,1711,Women's Bantamweight,Prelims,Chris Tognoni,3,200,2,Scrambled,140000654.0
+312,146,11,1661,Featherweight,Prelims,Dan Miragliotta,3,40,1,Scrambled,140000527.0
+313,146,12,1710,Bantamweight,Prelims,Mark Smith,3,31,1,Scrambled,140000248.0
+314,146,13,1709,Bantamweight,Prelims,Chris Tognoni,3,230,2,Scrambled,140000419.0
+315,146,14,1720,Bantamweight,Prelims,Chris Tognoni,3,26,1,Scrambled,140000608.0
+316,144,1,1583,Middleweight,Main Card,Jason Herzog,5,169,1,Scrambled,140000074.0
+317,144,2,1640,Light Heavyweight,Main Card,Kevin Sataki,5,195,1,Scrambled,140000123.0
+318,144,3,1628,Flyweight,Main Card,Lukas Bosacki,3,34,1,Scrambled,140000910.0
+319,144,4,1696,Women's Bantamweight,Main Card,Jason Herzog,3,212,2,Scrambled,140000710.0
+320,144,5,1626,Featherweight,Main Card,Kevin Sataki,3,212,2,Scrambled,140000500.0
+321,144,6,1582,Lightweight,Prelims,Lukas Bosacki,3,212,2,Scrambled,140000625.0
+322,144,7,1642,Welterweight,Prelims,Jason Herzog,3,212,2,Scrambled,140000628.0
+323,144,8,1641,Featherweight,Prelims,Kevin Sataki,3,54,1,Scrambled,140001042.0
+324,144,9,1695,Light Heavyweight,Prelims,Lukas Bosacki,3,212,2,Scrambled,140000549.0
+325,144,10,1706,Heavyweight,Prelims,Kevin Sataki,3,161,1,Scrambled,140000876.0
+326,144,11,1721,Light Heavyweight,Prelims,Jason Herzog,3,212,2,Scrambled,140001043.0
+327,147,1,1629,Women's Bantamweight,Main Card,Marc Goddard,5,89,0,Scrambled,140000447.0
+328,147,2,1730,Heavyweight,Main Card,Kevin Sataki,3,89,0,Scrambled,140000898.0
+329,147,3,1719,Women's Bantamweight,Main Card,Jason Herzog,3,61,0,Scrambled,140000471.0
+330,147,4,1727,Bantamweight,Main Card,Marc Goddard,3,13,0,Scrambled,140000890.0
+331,147,5,1729,Middleweight,Main Card,Jason Herzog,3,58,0,Scrambled,140000579.0
+332,147,6,1728,Welterweight,Prelims,Marc Goddard,3,89,0,Scrambled,140000652.0
+333,147,7,1691,Featherweight,Prelims,Jason Herzog,3,89,0,Scrambled,
+334,147,8,1726,Middleweight,Prelims,Kevin Sataki,3,89,0,Scrambled,140001027.0
+335,147,9,1725,Women's Strawweight,Prelims,Marc Goddard,3,89,0,Scrambled,140000884.0
+336,147,10,1724,Bantamweight,Prelims,Kevin Sataki,3,89,0,Scrambled,140000227.0
+337,147,11,1723,Lightweight,Prelims,Jason Herzog,3,21,0,Scrambled,140000864.0
+338,155,1,1690,Bantamweight,Main Card,Marc Goddard,5,83,3,Scrambled,140000007.0
+339,155,2,1755,Featherweight,Main Card,Kevin Sataki,3,393,5,Scrambled,140000246.0
+340,155,3,1722,Heavyweight,Main Card,Marc Goddard,3,393,5,Scrambled,140000272.0
+341,155,4,1754,Middleweight,Main Card,Kevin Sataki,3,265,2,Scrambled,140001047.0
+342,155,5,1753,Heavyweight,Main Card,Lukas Bosacki,3,124,2,Scrambled,140000892.0
+343,155,6,1688,Featherweight,Main Card,Kevin Sataki,3,393,5,Scrambled,140001049.0
+344,155,7,1751,Middleweight,Prelims,Lukas Bosacki,3,134,2,Scrambled,140000749.0
+345,155,8,1750,Heavyweight,Prelims,Marc Goddard,3,59,2,Scrambled,140000992.0
+346,155,9,1749,Middleweight,Prelims,Kevin Sataki,3,161,3,Scrambled,140000989.0
+347,155,10,1748,Bantamweight,Prelims,Lukas Bosacki,3,393,5,Scrambled,140001001.0
+348,155,11,1747,Featherweight,Prelims,Marc Goddard,3,393,5,Scrambled,140000617.0
+349,155,12,1746,Women's Bantamweight,Prelims,Kevin Sataki,3,393,5,Scrambled,140000509.0
+350,155,13,1745,Flyweight,Prelims,Lukas Bosacki,3,393,5,Scrambled,140000926.0
+351,154,1,1682,Featherweight,Main Card,Lukas Bosacki,5,428,10,Scrambled,140000712.0
+352,154,2,1766,Women's Flyweight,Main Card,Lukas Bosacki,3,420,2,Scrambled,140000349.0
+353,154,3,1681,Light Heavyweight,Main Card,Anders Ohlsson,3,172,2,Scrambled,140000066.0
+354,154,4,1763,Welterweight,Main Card,Lukas Bosacki,3,428,6,Scrambled,140000651.0
+355,154,5,1765,Featherweight,Main Card,Anders Ohlsson,3,428,6,Scrambled,140000054.0
+356,154,6,1764,Lightweight,Prelims,Lukas Bosacki,3,428,6,Scrambled,140001054.0
+357,154,7,1760,Women's Flyweight,Prelims,Anders Ohlsson,3,428,6,Scrambled,140000108.0
+358,154,8,1680,Middleweight,Prelims,Lukas Bosacki,3,428,6,Scrambled,140000587.0
+359,154,9,1679,Lightweight,Prelims,Lukas Bosacki,3,428,6,Scrambled,140000592.0
+360,154,10,1732,Light Heavyweight,Prelims,Anders Ohlsson,3,425,4,Scrambled,140000936.0
+361,154,11,1761,Bantamweight,Prelims,Lukas Bosacki,3,73,2,Scrambled,140000030.0
+362,145,1,1587,Lightweight,Main Card,Jason Herzog,5,56,1,Scrambled,140000601.0
+363,145,2,1736,Middleweight,Main Card,Anders Ohlsson,3,178,1,Scrambled,140000630.0
+364,145,3,1735,Heavyweight,Main Card,Lukas Bosacki,3,44,1,Scrambled,140000647.0
+365,145,4,1586,Middleweight,Main Card,Jason Herzog,3,11,0,Scrambled,140001025.0
+366,145,5,1734,Women's Flyweight,Main Card,Lukas Bosacki,3,125,1,Scrambled,140000517.0
+367,145,6,1707,Light Heavyweight,Main Card,Anders Ohlsson,3,154,0,Scrambled,140000113.0
+368,145,7,1733,Heavyweight,Prelims,Jason Herzog,3,177,0,Scrambled,140000400.0
+369,145,8,1769,Catch Weight,Prelims,Anders Ohlsson,3,178,1,Scrambled,140000227.0
+370,145,9,1776,Welterweight,Prelims,Lukas Bosacki,3,166,0,Scrambled,140000893.0
+371,145,10,1775,Light Heavyweight,Prelims,Anders Ohlsson,3,178,1,Scrambled,
+372,145,11,1774,Women's Flyweight,Early Prelims,Lukas Bosacki,3,178,0,Scrambled,140000928.0
+373,145,12,1773,Lightweight,Early Prelims,Jason Herzog,3,107,0,Scrambled,140000100.0
+374,159,1,1740,Middleweight,Main Card,Herb Dean,5,71,3,Scrambled,140000604.0
+375,159,2,1792,Featherweight,Main Card,Keith Peterson,3,253,2,Scrambled,140000209.0
+376,159,3,1790,Heavyweight,Main Card,Herb Dean,3,61,1,Scrambled,140000023.0
+377,159,4,1791,Middleweight,Main Card,Mark Smith,3,134,1,Scrambled,140000229.0
+378,159,5,1789,Lightweight,Main Card,Keith Peterson,3,253,2,Scrambled,140000341.0
+379,159,6,1788,Lightweight,Prelims,Mark Smith,3,89,1,Scrambled,140000014.0
+380,159,7,1738,Bantamweight,Prelims,Herb Dean,3,140,1,Scrambled,140000972.0
+381,159,8,1787,Middleweight,Prelims,Keith Peterson,3,253,2,Scrambled,140000741.0
+382,159,9,1786,Welterweight,Prelims,Mark Smith,3,109,1,Scrambled,140000933.0
+383,159,10,1739,Light Heavyweight,Prelims,Chris Tognoni,3,133,1,Scrambled,140000953.0
+384,159,11,1784,Bantamweight,Prelims,Chris Tognoni,3,144,2,Scrambled,140000424.0
+385,162,1,1768,Light Heavyweight,Main Card,Herb Dean,5,158,6,Scrambled,140000015.0
+386,162,2,1807,Heavyweight,Main Card,Mark Smith,3,436,6,Scrambled,140000298.0
+387,162,3,1803,Bantamweight,Main Card,Jason Herzog,3,436,6,Scrambled,140000334.0
+388,162,4,1815,Featherweight,Main Card,Herb Dean,3,335,2,Scrambled,140000617.0
+389,162,5,1805,Women's Strawweight,Main Card,Jason Herzog,3,436,6,Scrambled,140000394.0
+390,162,6,1804,Middleweight,Prelims,Mark Smith,3,125,6,Scrambled,140000353.0
+391,162,7,1800,Heavyweight,Prelims,Herb Dean,3,418,2,Scrambled,140000903.0
+392,162,8,1801,Featherweight,Prelims,Chris Tognoni,3,206,6,Scrambled,140000460.0
+393,162,9,1802,Welterweight,Prelims,Mark Smith,3,179,6,Scrambled,140000036.0
+394,162,10,1799,Bantamweight,Prelims,Chris Tognoni,3,237,2,Scrambled,140000916.0
+395,148,1,1657,Lightweight,Main Card,Herb Dean,5,433,10,Scrambled,140000368.0
+396,148,2,1825,Welterweight,Main Card,Mark Smith,3,43,2,Scrambled,140000894.0
+397,148,3,1821,Women's Strawweight,Main Card,Jason Herzog,3,433,6,Scrambled,140000415.0
+398,148,4,1828,Catch Weight,Main Card,Herb Dean,3,133,4,Scrambled,140000741.0
+399,148,5,1655,Women's Strawweight,Main Card,Jason Herzog,3,433,6,Scrambled,140000970.0
+400,148,6,1818,Women's Strawweight,Prelims,Mark Smith,3,433,6,Scrambled,140001084.0
+401,148,7,1817,Bantamweight,Prelims,Chris Tognoni,3,433,6,Scrambled,140000544.0
+402,148,8,1820,Welterweight,Prelims,Jason Herzog,3,433,6,Scrambled,140000150.0
+403,148,9,1816,Heavyweight,Prelims,Chris Tognoni,3,433,6,Scrambled,140000476.0
