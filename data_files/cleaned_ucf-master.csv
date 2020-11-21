@@ -1,0 +1,369 @@
+,Date,Red Fighter Name,Blue Fighter Name,American Odd that Red Fighter Will Win,American Odd that Blue Fighter Will Win,Location,Country,Winner of the Fight,Title Bout?,Weight Class,Number of Rounds in Fight,Blue Significant Strikes Landed/min,Blue Significant Striking Accuracy,Blue Average Submissions Attempted/15min,Blue Average Takedowns Landed/15min,Blue Takedown Accuracy,Red Significant Strikes Landed/min,Red Significant Striking Accuracy,Red Average Submissions Attempted/15min,Red Average Takedowns Landed/15min,Red Takedown Accuracy
+0,2020-02-08,Jon Jones,Dominick Reyes,-460,365,"Houston, Texas, USA", USA,Red,True,Light Heavyweight,5,5.03,0.52,0.4,0.39,0.16,4.31,0.57,0.5,1.9,0.46
+1,2020-02-08,Valentina Shevchenko,Katlyn Chookagian,-920,610,"Houston, Texas, USA", USA,Red,True,Women's Flyweight,5,4.35,0.32,0.1,0.0,0.0,3.02,0.49,0.4,1.94,0.51
+2,2020-02-08,Juan Adams,Justin Tafa,-240,200,"Houston, Texas, USA", USA,Blue,False,Heavyweight,3,2.77,0.66,0.0,0.0,0.0,7.32,0.55,0.0,0.97,0.66
+3,2020-02-08,Mirsad Bektic,Dan Ige,-125,105,"Houston, Texas, USA", USA,Blue,False,Featherweight,3,4.15,0.49,1.0,2.73,0.34,2.88,0.42,0.4,3.38,0.53
+4,2020-02-08,Derrick Lewis,Ilir Latifi,-225,185,"Houston, Texas, USA", USA,Red,False,Heavyweight,3,2.29,0.4,0.5,1.85,0.3,2.63,0.49,0.0,0.52,0.25
+5,2020-02-08,Trevin Giles,James Krause,-170,130,"Houston, Texas, USA", USA,Red,False,Middleweight,3,4.65,0.48,0.6,1.06,0.18,3.25,0.61,0.0,1.95,1.0
+6,2020-02-08,Alex Morono,Kalinn Williams,-345,285,"Houston, Texas, USA", USA,Blue,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,4.42,0.39,0.6,0.0,0.0
+7,2020-02-08,Lauren Murphy,Andrea Lee,260,-320,"Houston, Texas, USA", USA,Red,False,Women's Flyweight,3,5.02,0.53,0.5,1.75,0.46,3.53,0.39,0.0,0.89,0.28
+8,2020-02-08,Miles Johns,Mario Bautista,-132,112,"Houston, Texas, USA", USA,Blue,False,Bantamweight,3,7.45,0.49,0.0,0.81,0.33,3.47,0.53,0.0,2.0,0.66
+9,2020-02-08,Domingo Pilarte,Journey Newson,-125,105,"Houston, Texas, USA", USA,Blue,False,Bantamweight,3,2.53,0.3,1.0,0.0,0.0,2.06,0.51,1.4,2.06,0.42
+10,2020-02-08,Andre Ewell,Jonathan Martinez,-133,113,"Houston, Texas, USA", USA,Red,False,Bantamweight,3,3.42,0.48,0.0,0.68,0.5,3.32,0.39,0.0,0.26,0.5
+11,2020-02-08,Austin Lingo,Youssef Zalel,-210,175,"Houston, Texas, USA", USA,Blue,False,Featherweight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,2020-02-15,Corey Anderson,Jan Blachowicz,-235,195,"Rio Rancho, New Mexico, USA", USA,Blue,False,Light Heavyweight,5,3.44,0.49,0.3,1.18,0.52,4.45,0.46,0.0,4.98,0.5
+13,2020-02-15,Diego Sanchez,Michel Pereira,135,-155,"Rio Rancho, New Mexico, USA", USA,Red,False,Welterweight,3,2.26,0.44,0.0,1.79,0.4,2.75,0.38,0.9,1.62,0.25
+14,2020-02-15,Montana De La Rosa,Mara Romero Borella,-175,155,"Rio Rancho, New Mexico, USA", USA,Red,False,Women's Flyweight,3,2.98,0.35,0.3,1.68,0.41,2.49,0.31,2.3,2.69,0.33
+15,2020-02-15,Brok Weaver,Kazula Vargas,-270,230,"Rio Rancho, New Mexico, USA", USA,Red,False,Lightweight,3,1.33,0.47,0.0,0.0,0.0,6.73,0.74,0.0,0.0,0.0
+16,2020-02-15,Rogerio Bontorin,Ray Borg,130,-150,"Rio Rancho, New Mexico, USA", USA,Blue,False,Flyweight,3,1.26,0.49,1.2,3.66,0.5,3.23,0.52,1.6,2.72,0.41
+17,2020-02-15,Lando Vannata,Yancy Medeiros,-120,100,"Rio Rancho, New Mexico, USA", USA,Red,False,Lightweight,3,3.99,0.35,0.6,0.14,0.33,4.41,0.42,0.5,1.35,0.42
+18,2020-02-15,Tim Means,Daniel Rodriguez,-345,285,"Rio Rancho, New Mexico, USA", USA,Blue,False,Welterweight,3,7.2,0.48,0.0,4.0,0.8,4.87,0.45,0.2,0.87,0.45
+19,2020-02-15,John Dodson,Nathaniel Wood,130,-150,"Rio Rancho, New Mexico, USA", USA,Red,False,Bantamweight,3,4.24,0.42,2.0,2.05,0.66,3.28,0.4,0.0,0.8,0.28
+20,2020-02-15,Jim Miller,Scott Holtzman,115,-135,"Rio Rancho, New Mexico, USA", USA,Blue,False,Lightweight,3,4.36,0.5,0.2,2.37,0.58,2.78,0.4,2.0,1.77,0.42
+21,2020-02-15,Devin Clark,Dequan Townsend,-400,325,"Rio Rancho, New Mexico, USA", USA,Red,False,Light Heavyweight,3,1.6,0.43,0.0,0.0,0.0,3.21,0.54,0.2,3.03,0.39
+22,2020-02-15,Casey Kenney,Merab Dvalishvili,150,-170,"Rio Rancho, New Mexico, USA", USA,Blue,False,Bantamweight,3,3.75,0.37,0.0,6.75,0.43,3.48,0.41,0.8,1.75,0.5
+23,2020-02-15,Macy Chiasson,Shanna Young,-800,550,"Rio Rancho, New Mexico, USA", USA,Red,False,Women's Bantamweight,3,3.79,0.6,0.0,0.0,0.0,3.76,0.55,1.0,0.0,0.0
+24,2020-02-15,Mark De La Rosa,Raulian Paiva,205,-245,"Rio Rancho, New Mexico, USA", USA,Blue,False,Flyweight,3,4.59,0.43,0.5,0.46,0.2,3.05,0.36,0.3,0.77,0.17
+25,2020-02-22,Paul Felder,Dan Hooker,130,-150,"Auckland, New Zealand", New Zealand,Blue,False,Lightweight,5,4.73,0.44,0.4,0.4,0.33,3.55,0.43,0.3,0.29,0.27
+26,2020-02-22,Jim Crute,Michal Oleksiejczuk,100,-120,"Auckland, New Zealand", New Zealand,Red,False,Light Heavyweight,3,5.39,0.56,0.0,1.2,0.66,4.56,0.57,2.3,0.58,1.0
+27,2020-02-22,Karolina Kowalkiewicz,Yan Xiaonan,225,-265,"Auckland, New Zealand", New Zealand,Blue,False,Women's Strawweight,3,6.85,0.4,0.0,0.25,0.25,5.57,0.39,0.0,0.11,0.14
+28,2020-02-22,Ben Sosoli,Marcos Rogerio De Lima,130,-150,"Auckland, New Zealand", New Zealand,Blue,False,Heavyweight,3,3.55,0.54,0.8,0.78,0.6,2.22,0.31,0.0,0.0,0.0
+29,2020-02-22,Brad Riddell,Magomed Mustafaev,120,-140,"Auckland, New Zealand", New Zealand,Red,False,Lightweight,3,3.11,0.57,0.7,0.0,0.0,6.07,0.59,0.0,1.0,1.0
+30,2020-02-22,Kevin Aguilar,Zubaira Tukhugov,-115,-105,"Auckland, New Zealand", New Zealand,Blue,False,Featherweight,3,2.28,0.35,0.0,3.03,0.56,3.78,0.36,0.0,0.25,0.5
+31,2020-02-22,Jalin Turner,Joshua Culibao,-210,175,"Auckland, New Zealand", New Zealand,Red,False,Lightweight,3,0.0,0.0,0.0,0.0,0.0,5.66,0.45,0.6,0.61,1.0
+32,2020-02-22,Jake Matthews,Emil Meek,-200,170,"Auckland, New Zealand", New Zealand,Red,False,Welterweight,3,2.24,0.38,1.3,0.33,0.5,3.07,0.46,0.8,1.99,0.38
+33,2020-02-22,Callan Potter,Song Kenan,170,-200,"Auckland, New Zealand", New Zealand,Blue,False,Welterweight,3,4.13,0.45,0.0,0.0,0.0,3.21,0.51,0.0,2.83,0.6
+34,2020-02-22,Kai Kara France,Tyson Nam,-260,220,"Auckland, New Zealand", New Zealand,Red,False,Flyweight,3,2.67,0.23,0.0,0.0,0.0,5.28,0.41,0.0,0.75,0.37
+35,2020-02-22,Loma Lookboonmee,Angela Hill,155,-175,"Auckland, New Zealand", New Zealand,Blue,False,Women's Strawweight,3,5.97,0.5,0.1,0.46,0.41,6.6,0.65,0.0,1.0,0.16
+36,2020-02-22,Priscila Cachoeira,Shana Dobson,180,-220,"Auckland, New Zealand", New Zealand,Red,False,Women's Flyweight,3,3.56,0.33,0.0,0.4,0.25,3.7,0.36,0.0,0.0,0.0
+37,2020-02-29,Joseph Benavidez,Deiveson Figueiredo,-150,130,"Norfolk, Virginia, USA", USA,Blue,True,Flyweight,5,2.44,0.52,2.4,1.78,0.47,3.46,0.33,0.6,1.53,0.31
+38,2020-02-29,Felicia Spencer,Zarah Fairn,-870,585,"Norfolk, Virginia, USA", USA,Red,False,Women's Featherweight,3,0.51,0.4,0.0,0.0,0.0,3.26,0.51,0.8,0.82,0.1
+39,2020-02-29,Ion Cutelaba,Magomed Ankalaev,185,-225,"Norfolk, Virginia, USA", USA,Blue,False,Light Heavyweight,3,3.32,0.56,0.0,0.69,0.33,5.27,0.39,0.0,2.62,0.71
+40,2020-02-29,Megan Anderson,Norma Dumont,-245,205,"Norfolk, Virginia, USA", USA,Red,False,Women's Featherweight,3,0.0,0.0,0.0,0.0,0.0,1.8,0.46,0.6,0.64,0.5
+41,2020-02-29,Grant Dawson,Darrick Minner,-475,380,"Norfolk, Virginia, USA", USA,Red,False,Featherweight,3,6.85,0.54,0.0,0.0,0.0,3.76,0.46,2.1,5.23,0.45
+42,2020-02-29,Gabriel Silva,Kyler Phillips,-130,110,"Norfolk, Virginia, USA", USA,Blue,False,Bantamweight,3,18.26,0.56,0.0,0.0,0.0,0.53,0.5,0.0,1.0,0.16
+43,2020-02-29,Brendan Allen,Tom Breese,110,-130,"Norfolk, Virginia, USA", USA,Red,False,Middleweight,3,3.85,0.49,0.3,0.0,0.0,2.0,0.53,6.2,3.74,0.42
+44,2020-02-29,Luis Pena,Steve Garcia,-270,230,"Norfolk, Virginia, USA", USA,Red,False,Lightweight,3,8.89,0.55,0.0,0.0,0.0,3.7,0.45,1.0,1.25,0.31
+45,2020-02-29,Marcin Tybura,Serghei Spivac,100,-120,"Norfolk, Virginia, USA", USA,Red,False,Heavyweight,3,2.65,0.53,1.6,9.93,0.75,3.61,0.51,0.1,1.48,0.61
+46,2020-02-29,Jordan Griffin,TJ Brown,-135,115,"Norfolk, Virginia, USA", USA,Red,False,Featherweight,3,3.31,0.47,1.2,5.78,0.71,3.15,0.46,1.8,0.44,0.25
+47,2020-02-29,Aalon Cruz,Spike Carlyle,-190,165,"Norfolk, Virginia, USA", USA,Blue,False,Featherweight,3,0.0,0.0,0.0,0.0,0.0,9.04,0.4,0.0,0.0,0.0
+48,2020-02-29,Sean Brady,Ismail Naurdiev,105,-125,"Norfolk, Virginia, USA", USA,Red,False,Welterweight,3,3.4,0.56,0.3,1.67,0.83,7.93,0.56,0.0,2.0,0.66
+49,2020-03-07,Israel Adesanya,Yoel Romero,-260,240,"Las Vegas, Nevada, USA",USA,Red,True,Middleweight,5,3.71,0.49,0.0,1.79,0.31,4.46,0.5,0.4,0.0,0.0
+50,2020-03-07,Weili Zhang,Joanna Jedrzejczyk,-185,170,"Las Vegas, Nevada, USA",USA,Red,True,Women's Strawweight,5,6.18,0.47,0.1,0.3,0.62,6.22,0.49,0.9,1.75,0.3
+51,2020-03-07,Beneil Dariush,Drakkar Klose,-162,152,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,3,3.98,0.52,0.0,1.67,0.3,3.95,0.49,0.9,1.77,0.34
+52,2020-03-07,Neil Magny,Li Jingliang,157,-167,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,4.9,0.43,0.0,1.24,0.36,3.86,0.46,0.3,2.62,0.46
+53,2020-03-07,Alex Oliveira,Max Griffin,-125,115,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,4.22,0.49,0.6,1.89,0.54,2.9,0.5,0.7,2.86,0.39
+54,2020-03-07,Sean O'Malley,Jose Quinonez,-330,300,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,3.49,0.47,0.7,2.64,0.45,6.75,0.56,1.3,1.31,0.5
+55,2020-03-07,Mark Madsen,Austin Hubbard,-215,195,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,3,3.17,0.41,0.0,1.5,0.6,18.33,0.75,0.0,12.5,0.5
+56,2020-03-07,Rodolfo Vieira,Saparbeg Safarov,-570,480,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,4.29,0.48,0.0,2.8,0.41,1.91,0.46,1.6,4.77,0.42
+57,2020-03-07,Gerald Meerschaert,Deron Winn,125,-135,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,6.6,0.47,0.0,3.0,0.33,2.73,0.42,1.8,2.56,0.41
+58,2020-03-07,Jamall Emmers,Giga Chikadze,-170,160,"Las Vegas, Nevada, USA",USA,Blue,False,Featherweight,3,3.33,0.52,0.0,0.51,0.33,8.27,0.68,0.0,0.0,0.0
+59,2020-03-07,Danaa Batgerel,Guido Cannetti,-120,110,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,2.8,0.52,0.3,2.8,0.5,5.67,0.36,0.0,0.0,0.0
+60,2020-03-14,Kevin Lee,Charles Oliveira,-145,135,"Brasilia, Distrito Federal, Brazil",Brazil,Blue,False,Lightweight,5,3.21,0.5,2.8,2.77,0.42,3.9,0.42,0.9,3.23,0.42
+61,2020-03-14,Demian Maia,Gilbert Burns,160,-170,"Brasilia, Distrito Federal, Brazil",Brazil,Blue,False,Welterweight,3,3.09,0.43,0.7,2.43,0.38,1.82,0.43,1.0,2.49,0.25
+62,2020-03-14,Renato Moicano,Damir Hadzovic,-345,315,"Brasilia, Distrito Federal, Brazil",Brazil,Red,False,Lightweight,3,3.0,0.46,0.2,0.68,0.6,5.53,0.46,0.4,1.16,0.54
+63,2020-03-14,Johnny Walker,Nikita Krylov,-137,127,"Brasilia, Distrito Federal, Brazil",Brazil,Blue,False,Light Heavyweight,3,4.86,0.57,1.9,1.06,0.38,5.17,0.69,2.3,0.75,1.0
+64,2020-03-14,Francisco Trinaldo,John Makdessi,-160,150,"Brasilia, Distrito Federal, Brazil",Brazil,Red,False,Lightweight,3,5.43,0.5,0.0,0.0,0.0,3.09,0.44,0.5,1.08,0.45
+65,2020-03-14,Jussier Formiga,Brandon Moreno,-150,140,"Brasilia, Distrito Federal, Brazil",Brazil,Blue,False,Flyweight,3,3.12,0.34,0.6,2.02,0.43,1.38,0.38,0.6,1.95,0.39
+66,2020-03-14,Amanda Ribas,Randa Markos,-345,315,"Brasilia, Distrito Federal, Brazil",Brazil,Red,False,Women's Strawweight,3,3.01,0.41,0.3,1.38,0.27,4.29,0.38,1.4,2.71,0.57
+67,2020-03-14,Elizeu Dos Santos,Aleksei Kunchenko,-122,112,"Brasilia, Distrito Federal, Brazil",Brazil,Red,False,Welterweight,3,3.62,0.42,0.0,0.33,0.33,4.18,0.39,0.6,0.45,0.14
+68,2020-03-14,Mayra Bueno Silva,Maryna Moroz,-140,130,"Brasilia, Distrito Federal, Brazil",Brazil,Blue,False,Women's Flyweight,3,3.25,0.25,0.5,0.33,0.14,2.24,0.34,3.0,0.0,0.0
+69,2020-03-14,Bruno Silva,David Dvorak,-110,100,"Brasilia, Distrito Federal, Brazil",Brazil,Blue,False,Flyweight,3,0.0,0.0,0.0,0.0,0.0,1.54,0.4,0.0,2.31,0.18
+70,2020-03-14,Veronica Macedo,Bea Malecki,-155,145,"Brasilia, Distrito Federal, Brazil",Brazil,Blue,False,Women's Bantamweight,3,2.72,0.26,4.3,0.0,0.0,1.9,0.45,0.8,0.8,1.0
+71,2020-05-09,Vicente Luque,Niko Price,-290,245,"Jacksonville, Florida, USA",USA,Red,False,Welterweight,3,3.06,0.34,1.3,1.08,0.23,5.18,0.53,1.0,0.82,0.5
+72,2020-05-09,Bryce Mitchell,Charles Rosa,-155,135,"Jacksonville, Florida, USA",USA,Red,False,Featherweight,3,3.79,0.36,1.2,2.82,0.34,1.78,0.5,1.8,1.75,0.28
+73,2020-05-09,Ryan Spann,Sam Alvey,-420,335,"Jacksonville, Florida, USA",USA,Red,False,Light Heavyweight,3,3.05,0.44,0.1,0.09,0.16,3.26,0.43,2.4,0.6,0.33
+74,2020-05-09,Anthony Pettis,Donald Cerrone,-135,115,"Jacksonville, Florida, USA",USA,Red,False,Welterweight,3,4.33,0.46,1.3,1.21,0.36,2.97,0.46,1.2,0.67,0.54
+75,2020-05-09,Aleksei Oleinik,Fabricio Werdum,270,-330,"Jacksonville, Florida, USA",USA,Red,False,Heavyweight,3,3.61,0.51,1.1,1.65,0.3,3.08,0.5,2.8,3.01,0.46
+76,2020-05-09,Carla Esparza,Michelle Waterson,-155,135,"Jacksonville, Florida, USA",USA,Red,False,Women's Strawweight,3,3.35,0.53,1.2,1.88,0.5,2.22,0.4,0.3,3.53,0.36
+77,2020-05-09,Uriah Hall,Jacare Souza,115,-135,"Jacksonville, Florida, USA",USA,Red,False,Middleweight,3,2.54,0.46,1.4,2.46,0.38,3.31,0.5,0.2,0.75,0.38
+78,2020-05-09,Tony Ferguson,Justin Gaethje,-180,158,"Jacksonville, Florida, USA",USA,Blue,True,Lightweight,5,8.57,0.55,0.0,0.0,0.0,5.81,0.45,1.4,0.56,0.42
+79,2020-05-09,Henry Cejudo,Dominick Cruz,-225,185,"Jacksonville, Florida, USA",USA,Red,True,Bantamweight,5,3.53,0.31,0.1,3.17,0.5,3.82,0.44,0.2,2.16,0.35
+80,2020-05-09,Francis Ngannou,Jairzinho Rozenstruik,-265,225,"Jacksonville, Florida, USA",USA,Red,False,Heavyweight,3,3.72,0.46,0.0,0.0,0.0,2.15,0.37,0.5,0.0,0.0
+81,2020-05-09,Jeremy Stephens,Calvin Kattar,210,-250,"Jacksonville, Florida, USA",USA,Blue,False,Featherweight,3,5.12,0.41,0.0,0.47,0.33,3.09,0.4,0.4,1.18,0.38
+82,2020-05-09,Greg Hardy,Yorgan De Castro,-200,170,"Jacksonville, Florida, USA",USA,Red,False,Heavyweight,3,3.58,0.53,0.0,0.0,0.0,4.77,0.49,0.0,0.0,0.0
+83,2020-05-13,Anthony Smith,Glover Teixeira,-175,155,"Jacksonville, Florida, USA",USA,Blue,False,Light Heavyweight,5,3.41,0.44,1.0,2.0,0.38,3.06,0.47,0.8,0.41,0.26
+84,2020-05-13,Ben Rothwell,Ovince Saint Preux,112,-132,"Jacksonville, Florida, USA",USA,Red,False,Heavyweight,3,2.59,0.46,0.6,1.34,0.4,3.34,0.42,0.3,0.66,0.33
+85,2020-05-13,Alexander Hernandez,Drew Dober,100,-120,"Jacksonville, Florida, USA",USA,Blue,False,Lightweight,3,4.51,0.4,0.1,0.95,0.17,3.07,0.41,0.0,1.52,0.3
+86,2020-05-13,Ricky Simon,Ray Borg,-170,150,"Jacksonville, Florida, USA",USA,Red,False,Bantamweight,3,1.36,0.52,1.1,4.26,0.51,2.96,0.4,0.2,6.53,0.49
+87,2020-05-13,Andrei Arlovski,Philipe Lins,130,-150,"Jacksonville, Florida, USA",USA,Red,False,Heavyweight,3,0.0,0.0,0.0,0.0,0.0,3.55,0.44,0.3,0.52,0.36
+88,2020-05-13,Michael Johnson,Thiago Moises,-110,-110,"Jacksonville, Florida, USA",USA,Blue,False,Lightweight,3,2.96,0.45,1.5,1.22,0.36,4.22,0.37,0.1,0.52,0.45
+89,2020-05-13,Sijara Eubanks,Sarah Moras,-370,310,"Jacksonville, Florida, USA",USA,Red,False,Women's Bantamweight,3,2.04,0.41,1.1,0.91,0.23,4.77,0.39,0.0,2.0,0.44
+90,2020-05-13,Gabriel Benitez,Omar Morales,160,-185,"Jacksonville, Florida, USA",USA,Blue,False,Lightweight,3,3.6,0.49,0.0,0.71,1.0,4.32,0.41,1.5,0.21,1.0
+91,2020-05-13,Hunter Azure,Brian Kelleher,-200,170,"Jacksonville, Florida, USA",USA,Blue,False,Featherweight,3,4.87,0.45,0.9,1.47,0.29,4.0,0.5,2.5,2.0,0.33
+92,2020-05-13,Chase Sherman,Ike Villanueva,-160,140,"Jacksonville, Florida, USA",USA,Red,False,Heavyweight,3,0.0,0.0,0.0,0.0,0.0,5.81,0.43,0.0,0.0,0.0
+93,2020-05-16,Alistair Overeem,Walt Harris,135,-155,"Jacksonville, Florida, USA",USA,Red,False,Heavyweight,5,2.97,0.39,0.2,0.32,0.33,3.66,0.63,0.9,1.4,0.54
+94,2020-05-16,Claudia Gadelha,Angela Hill,-255,215,"Jacksonville, Florida, USA",USA,Red,False,Women's Strawweight,3,5.76,0.49,0.2,0.47,0.37,3.4,0.41,0.7,3.13,0.45
+95,2020-05-16,Dan Ige,Edson Barboza,112,-132,"Jacksonville, Florida, USA",USA,Red,False,Featherweight,3,4.08,0.43,0.1,0.46,0.44,4.12,0.48,0.7,2.15,0.34
+96,2020-05-16,Krzysztof Jotko,Eryk Anders,-105,-105,"Jacksonville, Florida, USA",USA,Red,False,Middleweight,3,3.02,0.45,0.1,1.34,0.34,2.98,0.45,0.1,1.27,0.35
+97,2020-05-16,Song Yadong,Marlon Vera,-200,170,"Jacksonville, Florida, USA",USA,Red,False,Featherweight,3,3.7,0.48,1.3,0.88,0.42,4.32,0.42,0.5,0.73,0.75
+98,2020-05-16,Miguel Baeza,Matt Brown,-155,-155,"Jacksonville, Florida, USA",USA,Red,False,Welterweight,3,3.81,0.54,1.5,1.6,0.47,4.78,0.56,1.1,0.54,0.33
+99,2020-05-16,Kevin Holland,Anthony Hernandez,-110,-110,"Jacksonville, Florida, USA",USA,Red,False,Middleweight,3,5.03,0.53,0.9,5.27,0.66,4.29,0.55,1.1,1.26,0.43
+100,2020-05-16,Giga Chikadze,Irwin Rivera,-420,335,"Jacksonville, Florida, USA",USA,Red,False,Featherweight,3,2.27,0.36,0.0,0.0,0.0,3.31,0.44,0.0,0.51,0.5
+101,2020-05-16,Nate Landwehr,Darren Elkins,100,-120,"Jacksonville, Florida, USA",USA,Red,False,Featherweight,3,3.54,0.37,1.2,2.43,0.33,6.89,0.5,0.0,0.0,0.0
+102,2020-05-16,Cortney Casey,Mara Romero Borella,-185,160,"Jacksonville, Florida, USA",USA,Red,False,Women's Flyweight,3,2.54,0.37,0.2,1.66,0.43,4.72,0.38,0.7,0.34,0.3
+103,2020-05-16,Rodrigo Nascimento,Don'Tale Mayes,-115,-105,"Jacksonville, Florida, USA",USA,Red,False,Heavyweight,3,4.19,0.45,0.0,0.0,0.0,4.44,0.56,2.9,2.9,1.0
+104,2020-05-30,Tyron Woodley,Gilbert Burns,-170,150,"Las Vegas, Nevada, USA",USA,Blue,False,Welterweight,5,3.13,0.44,0.7,2.39,0.38,2.5,0.49,0.5,1.21,0.41
+105,2020-05-30,Blagoy Ivanov,Augusto Sakai,-105,-115,"Las Vegas, Nevada, USA",USA,Blue,False,Heavyweight,3,5.51,0.46,0.0,0.24,0.5,3.09,0.38,0.2,1.07,0.62
+106,2020-05-30,Billy Quarantillo,Spike Carlyle,-130,110,"Las Vegas, Nevada, USA",USA,Red,False,Catch Weight,3,14.12,0.68,0.0,0.0,0.0,10.77,0.81,4.0,0.8,0.25
+107,2020-05-30,Roosevelt Roberts,Brok Weaver,-360,300,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,3,5.57,0.73,0.8,0.0,0.0,2.87,0.46,0.5,1.84,0.63
+108,2020-05-30,Mackenzie Dern,Hannah Cifers,-420,335,"Las Vegas, Nevada, USA",USA,Red,False,Women's Strawweight,3,4.82,0.45,0.3,0.32,1.0,3.24,0.32,0.9,0.46,0.08
+109,2020-05-30,Katlyn Chookagian,Antonina Shevchenko,110,-130,"Las Vegas, Nevada, USA",USA,Red,False,Women's Flyweight,3,4.9,0.57,1.0,0.67,1.0,4.11,0.32,0.1,0.0,0.0
+110,2020-05-30,Daniel Rodriguez,Gabe Green,-335,275,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,6.65,0.45,0.6,2.54,0.8
+111,2020-05-30,Jamahal Hill,Klidson Abreu,-117,-103,"Las Vegas, Nevada, USA",USA,Red,False,Light Heavyweight,3,2.02,0.39,0.0,0.67,0.2,7.92,0.52,0.0,0.0,0.0
+112,2020-05-30,Tim Elliott,Brandon Royval,-162,142,"Las Vegas, Nevada, USA",USA,Blue,False,Flyweight,3,0.0,0.0,0.0,0.0,0.0,3.49,0.46,1.2,4.14,0.57
+113,2020-05-30,Louis Smolka,Casey Kenney,230,-270,"Las Vegas, Nevada, USA",USA,Blue,False,Bantamweight,3,3.39,0.4,0.6,1.4,0.5,4.22,0.46,2.1,1.65,0.34
+114,2020-05-30,Chris Gutierrez,Vince Morales,-110,-110,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,4.84,0.39,0.0,0.0,0.0,3.65,0.55,0.0,0.38,0.33
+115,2020-06-06,Amanda Nunes,Felicia Spencer,-600,450,"Las Vegas, Nevada, USA",USA,Red,True,Women's Featherweight,5,4.54,0.55,0.7,1.36,0.16,4.34,0.49,0.7,2.33,0.47
+116,2020-06-06,Raphael Assuncao,Cody Garbrandt,120,-140,"Las Vegas, Nevada, USA",USA,Blue,False,Bantamweight,3,3.53,0.37,0.0,0.94,0.33,3.32,0.41,0.3,1.54,0.38
+117,2020-06-06,Aljamain Sterling,Cory Sandhagen,-115,-105,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,7.14,0.48,0.6,1.24,0.5,4.85,0.5,0.8,1.91,0.29
+118,2020-06-06,Neil Magny,Anthony Rocco Martin,-135,115,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,2.7,0.36,1.1,0.68,0.25,3.93,0.46,0.3,2.7,0.47
+119,2020-06-06,Eddie Wineland,Sean O'Malley,400,-500,"Las Vegas, Nevada, USA",USA,Blue,False,Bantamweight,3,6.87,0.57,1.2,1.24,0.5,3.41,0.29,0.1,0.28,0.28
+120,2020-06-06,Alex Caceres,Chase Hooper,168,-195,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,5.16,0.63,3.8,0.77,0.16,3.98,0.48,0.8,0.53,0.75
+121,2020-06-06,Ian Heinisch,Gerald Meerschaert,-130,110,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,3.32,0.43,1.7,2.37,0.43,3.38,0.5,0.5,1.18,0.19
+122,2020-06-06,Cody Stamann,Brian Kelleher,-250,210,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,4.65,0.43,0.8,1.26,0.23,4.25,0.49,0.0,3.58,0.48
+123,2020-06-06,Charles Byrd,Maki Pitolo,-175,155,"Las Vegas, Nevada, USA",USA,Blue,False,Middleweight,3,5.42,0.45,0.9,0.0,0.0,3.86,0.57,1.9,2.52,0.5
+124,2020-06-06,Jussier Formiga,Alex Perez,115,-135,"Las Vegas, Nevada, USA",USA,Blue,False,Flyweight,3,4.48,0.47,1.5,3.27,0.5,1.35,0.39,0.6,1.87,0.35
+125,2020-06-06,Alonzo Menifield,Devin Clark,-225,185,"Las Vegas, Nevada, USA",USA,Blue,False,Light Heavyweight,3,3.12,0.55,0.1,3.03,0.42,5.07,0.48,0.0,0.0,0.0
+126,2020-06-06,Evan Dunham,Herbert Burns,185,-225,"Las Vegas, Nevada, USA",USA,Blue,False,Catch Weight,3,2.31,0.42,5.8,2.88,1.0,5.35,0.39,1.0,1.83,0.33
+127,2020-06-13,Jessica Eye,Cynthia Calvillo,120,-130,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Flyweight,5,4.12,0.43,1.6,1.83,0.43,3.79,0.38,0.7,0.46,0.45
+128,2020-06-13,Karl Roberson,Marvin Vettori,210,-230,"Las Vegas, Nevada, USA",USA,Blue,False,Middleweight,3,4.05,0.41,0.6,1.43,0.45,3.16,0.52,0.8,1.07,0.57
+129,2020-06-13,Charles Rosa,Kevin Aguilar,170,-185,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,3,3.73,0.36,0.0,0.24,0.5,3.21,0.36,1.0,2.35,0.34
+130,2020-06-13,Andre Fili,Charles Jourdain,-220,200,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,4.85,0.43,0.0,0.0,0.0,4.0,0.37,0.2,2.49,0.45
+131,2020-06-13,Jordan Espinosa,Mark De La Rosa,-167,157,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,3.28,0.36,0.2,0.66,0.15,4.25,0.55,0.4,0.85,0.2
+132,2020-06-13,Mariya Agapova,Hannah Cifers,-335,305,"Las Vegas, Nevada, USA",USA,Red,False,Women's Flyweight,3,4.71,0.44,0.3,0.31,1.0,2.6,0.48,0.0,0.0,0.0
+133,2020-06-13,Merab Dvalishvili,Gustavo Lopez,-800,635,"Las Vegas, Nevada, USA",USA,Red,False,Catch Weight,3,0.0,0.0,0.0,0.0,0.0,3.84,0.37,0.0,7.8,0.45
+134,2020-06-13,Julia Avila,Gina Mazany,-575,485,"Las Vegas, Nevada, USA",USA,Red,False,Women's Bantamweight,3,2.72,0.49,0.0,3.18,0.77,3.27,0.4,0.0,0.0,0.0
+135,2020-06-13,Tyson Nam,Zarrukh Adashev,-135,125,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,0.0,0.0,0.0,0.0,0.0,3.0,0.27,0.0,0.0,0.0
+136,2020-06-13,Anthony Ivy,Christian Aguilera,-185,170,"Las Vegas, Nevada, USA",USA,Blue,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,2020-06-20,Curtis Blaydes,Alexander Volkov,-400,325,"Las Vegas, Nevada, USA",USA,Red,False,Heavyweight,5,5.36,0.6,0.2,0.75,0.75,3.74,0.51,0.0,6.63,0.55
+138,2020-06-20,Josh Emmett,Shane Burgos,120,-140,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,7.09,0.5,0.2,0.36,1.0,3.63,0.36,0.2,1.5,0.45
+139,2020-06-20,Raquel Pennington,Marion Reneau,-160,140,"Las Vegas, Nevada, USA",USA,Red,False,Women's Bantamweight,3,3.46,0.41,1.1,0.35,1.0,3.32,0.46,0.8,1.13,0.27
+140,2020-06-20,Belal Muhammad,Lyman Good,-130,110,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,5.32,0.49,0.0,0.38,1.0,4.37,0.41,0.2,2.15,0.31
+141,2020-06-20,Jim Miller,Roosevelt Roberts,200,-240,"Las Vegas, Nevada, USA",USA,Red,False,Catch Weight,3,3.12,0.49,1.1,1.83,0.57,2.83,0.4,1.9,1.69,0.41
+142,2020-06-20,Clay Guida,Bobby Green,195,-235,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,3,4.95,0.49,0.3,1.12,0.29,2.45,0.33,0.7,3.39,0.38
+143,2020-06-20,Tecia Torres,Brianna Van Buren,175,-210,"Las Vegas, Nevada, USA",USA,Red,False,Women's Strawweight,3,4.8,0.38,0.0,3.0,0.75,4.04,0.47,0.1,0.67,0.14
+144,2020-06-20,Marc-Andre Barriault,Oskar Piechota,100,-120,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,3.19,0.55,1.9,0.76,0.5,3.53,0.43,0.0,0.33,0.16
+145,2020-06-20,Cortney Casey,Gillian Robertson,100,-120,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Flyweight,3,2.18,0.5,1.3,3.44,0.47,4.72,0.38,0.7,0.34,0.3
+146,2020-06-20,Frank Camacho,Justin Jaynes,-340,280,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,3,0.0,0.0,0.0,0.0,0.0,6.68,0.46,0.0,1.18,0.45
+147,2020-06-20,Roxanne Modafferi,Lauren Murphy,-125,105,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Flyweight,3,3.76,0.38,0.0,1.03,0.32,3.06,0.31,0.1,1.45,0.21
+148,2020-06-20,Austin Hubbard,Max Rohskopf,160,-185,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,3,0.0,0.0,0.0,0.0,0.0,3.02,0.44,0.0,1.0,0.6
+149,2020-06-27,Dustin Poirier,Dan Hooker,-225,180,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,5,4.76,0.45,0.3,0.43,0.28,5.51,0.49,1.2,1.55,0.37
+150,2020-06-27,Mike Perry,Mickey Gall,-315,235,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,2.22,0.43,2.7,1.5,0.38,4.27,0.47,0.0,0.61,0.41
+151,2020-06-27,Brendan Allen,Kyle Daukaus,-305,235,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,4.53,0.67,4.0,2.0,0.4,2.62,0.59,4.5,2.68,0.37
+152,2020-06-27,Gian Villante,Maurice Greene,180,-230,"Las Vegas, Nevada, USA",USA,Blue,False,Heavyweight,3,4.19,0.44,0.5,0.0,0.0,4.26,0.42,0.0,0.53,0.23
+153,2020-06-27,Luis Pena,Khama Worthy,-250,195,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,3,4.94,0.41,0.0,0.0,0.0,3.32,0.46,1.0,1.0,0.29
+154,2020-06-27,Mara Romero Borella,Miranda Maverick,230,-305,"Las Vegas, Nevada, USA",USA,Red,False,Women's Flyweight,3,0.0,0.0,0.0,0.0,0.0,2.54,0.37,0.2,1.66,0.43
+155,2020-06-27,Philipe Lins,Tanner Boser,-112,-112,"Las Vegas, Nevada, USA",USA,Blue,False,Heavyweight,3,4.17,0.49,0.0,0.0,0.0,2.73,0.41,0.0,0.0,0.0
+156,2020-06-27,Sean Woodson,Julian Erosa,-455,325,"Las Vegas, Nevada, USA",USA,Blue,False,Catch Weight,3,4.18,0.45,0.8,0.83,0.6,5.27,0.43,0.0,0.0,0.0
+157,2020-06-27,Takashi Sato,Jason Witt,-278,215,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,3.13,0.36,0.0,0.82,0.5
+158,2020-06-27,Kay Hansen,Jinh Yu Frey,-175,138,"Las Vegas, Nevada, USA",USA,Red,False,Women's Strawweight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,2020-06-27,Jordan Griffin,Youssef Zalal,-106,-114,"Las Vegas, Nevada, USA",USA,Blue,False,Featherweight,3,2.07,0.56,2.0,6.0,0.5,2.87,0.48,2.5,0.35,0.2
+160,2020-07-11,Kamaru Usman,Jorge Masvidal,-240,190,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,True,Welterweight,5,4.33,0.47,0.4,1.7,0.59,4.6,0.52,0.2,3.44,0.5
+161,2020-07-11,Alexander Volkanovski,Max Holloway,-210,170,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,True,Featherweight,3,6.66,0.44,0.4,0.24,0.83,6.15,0.57,0.4,2.16,0.34
+162,2020-07-11,Petr Yan,Jose Aldo,-215,175,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,True,Bantamweight,3,3.47,0.44,0.1,0.64,0.65,5.65,0.46,0.2,1.73,0.53
+163,2020-07-11,Jessica Andrade,Rose Namajunas,175,-215,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Women's Strawweight,3,3.95,0.42,0.9,2.17,0.55,6.55,0.51,0.5,3.21,0.58
+164,2020-07-11,Amanda Ribas,Paige VanZant,-770,500,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Flyweight,3,3.4,0.52,1.0,1.31,0.33,4.84,0.44,1.6,2.02,0.5
+165,2020-07-11,Volkan Oezdemir,Jiri Prochazka,-159,129,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Light Heavyweight,3,0.0,0.0,0.0,0.0,0.0,4.88,0.45,0.0,0.39,0.22
+166,2020-07-11,Elizeu Zaleski dos Santos,Muslim Salikhov,108,-134,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Welterweight,3,2.92,0.46,0.0,1.22,0.42,4.17,0.39,0.5,0.65,0.2
+167,2020-07-11,Makwan Amirkhani,Danny Henry,-215,170,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Featherweight,3,5.85,0.53,2.7,0.89,0.33,1.6,0.47,1.5,3.39,0.34
+168,2020-07-11,Leonardo Santos,Roman Bogatov,-177,145,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Lightweight,3,0.0,0.0,0.0,0.0,0.0,2.4,0.41,0.4,1.1,0.25
+169,2020-07-11,Marcin Tybura,Maxim Grishin,-112,-112,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Heavyweight,3,0.0,0.0,0.0,0.0,0.0,3.52,0.5,0.1,1.54,0.5
+170,2020-07-11,Raulian Paiva,Zhalgas Zhamagulov,-180,142,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Flyweight,3,0.0,0.0,0.0,0.0,0.0,4.81,0.43,0.3,0.35,0.2
+171,2020-07-11,Karol Rosa,Vanessa Melo,-250,195,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Bantamweight,3,3.6,0.28,0.0,0.0,0.0,11.4,0.48,0.0,0.0,0.0
+172,2020-07-11,Martin Day,Davey Grant,-162,130,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Bantamweight,3,3.13,0.52,0.0,2.64,0.47,5.6,0.49,1.0,1.0,0.66
+173,2020-07-15,Calvin Kattar,Dan Ige,-286,220,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Featherweight,5,4.12,0.48,0.7,2.15,0.34,5.29,0.41,0.0,0.42,0.28
+174,2020-07-15,Tim Elliott,Ryan Benoit,-141,112,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Flyweight,3,2.8,0.4,0.2,0.2,0.16,3.41,0.46,1.2,4.31,0.55
+175,2020-07-15,Jimmie Rivera,Cody Stamann,-141,112,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Featherweight,3,4.51,0.49,0.0,3.34,0.48,4.1,0.4,0.0,0.7,0.23
+176,2020-07-15,Molly McCann,Taila Santos,-152,120,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Women's Flyweight,3,4.23,0.49,1.0,1.0,1.0,6.49,0.49,0.9,2.59,0.33
+177,2020-07-15,Abdul Razak Alhassan,Mounir Lazzez,-345,260,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,4.59,0.46,0.0,0.57,0.33
+178,2020-07-15,John Phillips,Khamzat Chimaev,271,-375,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Middleweight,3,0.0,0.0,0.0,0.0,0.0,2.64,0.34,0.0,0.0,0.0
+179,2020-07-15,Ricardo Ramos,Lerone Murphy,-162,130,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Featherweight,3,1.87,0.35,2.0,0.0,0.0,3.05,0.39,0.7,2.13,0.64
+180,2020-07-15,Modestas Bukauskas,Andreas Michailidis,-177,140,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Light Heavyweight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+181,2020-07-15,Jared Gordon,Chris Fishgold,-143,115,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Featherweight,3,2.53,0.31,1.5,4.55,0.5,6.26,0.54,0.0,2.98,0.39
+182,2020-07-15,Diana Belbita,Liana Jojua,-195,155,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Women's Flyweight,3,1.53,0.42,0.0,2.41,0.66,6.53,0.38,0.0,1.0,1.0
+183,2020-07-15,Jack Shore,Aaron Phillips,-715,475,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Bantamweight,3,1.87,0.59,0.5,0.0,0.0,3.58,0.5,1.2,4.67,0.57
+184,2020-07-18,Deiveson Figueiredo,Joseph Benavidez,-225,180,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,True,Flyweight,5,3.53,0.34,0.6,1.5,0.3,2.54,0.52,2.4,1.81,0.5
+185,2020-07-18,Jack Hermansson,Kelvin Gastelum,-112,-112,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Middleweight,3,3.75,0.43,0.1,0.8,0.35,5.13,0.48,0.7,2.23,0.36
+186,2020-07-18,Marc Diakiese,Rafael Fiziev,-167,135,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Lightweight,3,4.08,0.5,0.0,0.91,1.0,2.86,0.37,0.0,2.5,0.4
+187,2020-07-18,Ariane Lipski,Luana Carolina,-125,100,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Flyweight,3,6.53,0.5,2.0,0.0,0.0,3.38,0.31,0.3,0.33,1.0
+188,2020-07-18,Alexandre Pantoja,Askar Askarov,-210,165,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Flyweight,3,3.43,0.48,0.0,2.0,0.22,4.58,0.47,1.3,1.1,0.35
+189,2020-07-18,Roman Dolidze,Khadis Ibragimov,-167,135,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Light Heavyweight,3,5.23,0.52,0.0,1.67,0.3,0.0,0.0,0.0,0.0,0.0
+190,2020-07-18,Grant Dawson,Nad Narimani,-250,195,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Catch Weight,3,3.8,0.43,0.0,2.64,0.41,3.48,0.48,2.5,5.09,0.48
+191,2020-07-18,Joe Duffy,Joel Alvarez,-335,250,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Lightweight,3,2.55,0.33,0.0,0.0,0.0,2.56,0.33,0.8,0.75,0.6
+192,2020-07-18,Brett Johns,Montel Jackson,170,-215,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Bantamweight,3,4.16,0.55,0.2,4.84,0.79,3.3,0.48,1.0,4.29,0.52
+193,2020-07-18,Malcolm Gordon,Amir Albazi,135,-167,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Flyweight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+194,2020-07-18,Davi Ramos,Arman Tsarukyan,160,-200,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Lightweight,3,2.0,0.4,0.0,1.5,0.13,2.74,0.39,0.7,2.42,0.5
+195,2020-07-18,Carlos Felipe,Serghei Spivac,140,-177,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Heavyweight,3,2.08,0.39,0.6,3.74,0.66,0.0,0.0,0.0,0.0,0.0
+196,2020-07-25,Robert Whittaker,Darren Till,-130,107,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Middleweight,5,2.41,0.46,0.0,0.66,0.41,4.77,0.39,0.0,0.36,0.57
+197,2020-07-25,Mauricio Rua,Rogerio Nogueira,-190,150,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Light Heavyweight,3,2.39,0.34,0.8,0.67,0.44,3.63,0.5,0.8,2.17,0.48
+198,2020-07-25,Fabricio Werdum,Alexander Gustafsson,260,-335,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Heavyweight,3,4.02,0.4,0.4,1.56,0.39,3.61,0.52,1.1,1.71,0.31
+199,2020-07-25,Carla Esparza,Marina Rodriguez,145,-182,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Strawweight,3,5.6,0.5,0.2,0.48,0.33,2.3,0.41,0.3,3.28,0.33
+200,2020-07-25,Paul Craig,Gadzhimurad Antigulov,-137,110,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Light Heavyweight,3,2.32,0.51,3.5,8.7,0.41,2.33,0.48,1.5,1.65,0.21
+201,2020-07-25,Alex Oliveira,Peter Sobotta,-182,145,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Welterweight,3,2.17,0.39,0.6,1.76,0.35,2.88,0.5,0.6,2.69,0.37
+202,2020-07-25,Khamzat Chimaev,Rhys McKee,-1250,700,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,6.94,0.82,2.4,4.84,1.0
+203,2020-07-25,Francisco Trinaldo,Jai Herbert,-134,108,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Lightweight,3,0.0,0.0,0.0,0.0,0.0,3.13,0.43,0.5,1.02,0.44
+204,2020-07-25,Nicolas Dalby,Jesse Ronson,-265,205,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Welterweight,3,3.09,0.46,0.3,0.67,0.4,3.03,0.38,0.0,1.8,0.45
+205,2020-07-25,Tom Aspinall,Jake Collier,-278,220,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Heavyweight,3,4.15,0.39,0.5,0.72,0.23,0.0,0.0,0.0,0.0,0.0
+206,2020-07-25,Movsar Evloev,Mike Grundy,-200,161,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Featherweight,3,3.4,0.58,0.0,1.55,0.33,4.03,0.38,0.0,4.5,0.33
+207,2020-07-25,Tanner Boser,Raphael Pessoa,-278,220,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Heavyweight,3,2.4,0.25,0.0,0.0,0.0,4.28,0.5,0.0,0.0,0.0
+208,2020-07-25,Bethe Correia,Pannie Kianzad,131,-162,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Women's Bantamweight,3,4.03,0.41,0.4,0.4,0.2,4.47,0.44,0.0,0.37,0.2
+209,2020-07-25,Ramazan Emeev,Niklas Stolze,-400,300,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,2.38,0.43,0.2,1.5,0.22
+210,2020-07-25,Nathaniel Wood,John Castaneda,-455,320,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Bantamweight,3,3.2,0.46,0.0,2.0,0.28,4.3,0.43,1.5,1.9,0.71
+211,2020-08-01,Derek Brunson,Edmen Shahbazyan,275,-360,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,4.11,0.52,0.8,6.77,0.4,3.39,0.45,0.5,2.8,0.29
+212,2020-08-01,Joanne Calderwood,Jennifer Maia,-162,130,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Flyweight,3,4.05,0.38,0.0,0.25,0.5,6.19,0.47,0.5,1.85,0.56
+213,2020-08-01,Vicente Luque,Randy Brown,-200,160,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,3.41,0.47,0.6,0.95,0.46,5.66,0.53,0.8,0.73,0.5
+214,2020-08-01,Lando Vannata,Bobby Green,-162,130,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,3,5.01,0.49,0.4,1.19,0.31,4.72,0.44,0.4,1.15,0.36
+215,2020-08-01,Frankie Saenz,Jonathan Martinez,200,-250,"Las Vegas, Nevada, USA",USA,Blue,False,Bantamweight,3,3.67,0.47,0.0,0.51,0.28,3.97,0.46,0.1,1.77,0.32
+216,2020-08-01,Johnny Munoz,Nate Maness,110,-137,"Las Vegas, Nevada, USA",USA,Blue,False,Featherweight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+217,2020-08-01,Jamall Emmers,Vince Cachero,-360,265,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,0.0,0.0,0.0,0.0,0.0,4.96,0.52,0.0,1.42,0.33
+218,2020-08-08,Derrick Lewis,Aleksei Oleinik,-200,160,"Las Vegas, Nevada, USA",USA,Red,False,Heavyweight,5,3.72,0.5,2.2,2.41,0.46,2.53,0.49,0.0,0.48,0.24
+219,2020-08-08,Omari Akhmedov,Chris Weidman,115,-141,"Las Vegas, Nevada, USA",USA,Blue,False,Middleweight,3,3.14,0.42,1.0,3.82,0.5,2.99,0.34,0.2,2.4,0.5
+220,2020-08-08,Maki Pitolo,Darren Stewart,125,-155,"Las Vegas, Nevada, USA",USA,Blue,False,Middleweight,3,2.94,0.44,0.0,1.38,0.44,5.22,0.45,0.7,1.98,0.6
+221,2020-08-08,Yana Kunitskaya,Julija Stoliarenko,-190,150,"Las Vegas, Nevada, USA",USA,Red,False,Women's Bantamweight,3,3.8,0.36,1.0,0.0,0.0,5.05,0.52,0.3,2.39,0.53
+222,2020-08-08,Beneil Dariush,Scott Holtzman,-200,160,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,3,4.52,0.49,0.2,2.23,0.6,3.87,0.49,1.1,1.8,0.33
+223,2020-08-08,Tim Means,Laureano Staropoli,120,-150,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,4.29,0.31,0.0,0.33,0.25,4.87,0.45,0.2,0.91,0.44
+224,2020-08-08,Kevin Holland,Joaquin Buckley,-455,333,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,0.0,0.0,0.0,0.0,0.0,4.29,0.55,1.1,1.26,0.43
+225,2020-08-08,Nasrat Haqparast,Alex Munoz,-240,188,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,3,4.07,0.63,0.0,4.0,0.66,5.25,0.47,0.0,0.29,0.25
+226,2020-08-08,Andrew Sanchez,Wellington Turman,130,-162,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,2.43,0.42,1.0,3.0,0.37,4.49,0.43,0.0,2.25,0.33
+227,2020-08-08,Gavin Tucker,Justin Jaynes,-139,112,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,23.41,0.53,0.0,0.0,0.0,2.66,0.37,1.0,2.08,0.33
+228,2020-08-08,Youssef Zalal,Peter Barrett,-480,340,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,7.27,0.72,0.0,4.0,0.25,3.0,0.53,1.0,3.0,0.42
+229,2020-08-08,Irwin Rivera,Ali Qaisi,-186,148,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,0.0,0.0,0.0,0.0,0.0,2.27,0.36,0.0,0.0,0.0
+230,2020-08-15,Stipe Miocic,Daniel Cormier,-106,-112,"Las Vegas, Nevada, USA",USA,Red,True,Heavyweight,5,4.25,0.52,0.5,1.95,0.44,4.95,0.52,0.0,2.2,0.37
+231,2020-08-15,Sean O'Malley,Marlon Vera,-305,240,"Las Vegas, Nevada, USA",USA,Blue,False,Bantamweight,3,3.7,0.48,1.3,0.88,0.42,6.86,0.58,1.2,1.18,0.5
+232,2020-08-15,Junior Dos Santos,Jairzinho Rozenstruik,115,-143,"Las Vegas, Nevada, USA",USA,Blue,False,Heavyweight,3,3.84,0.48,0.0,0.0,0.0,4.66,0.48,0.1,0.33,0.55
+233,2020-08-15,John Dodson,Merab Dvalishvili,188,-240,"Las Vegas, Nevada, USA",USA,Blue,False,Bantamweight,3,4.01,0.39,0.3,8.67,0.5,3.3,0.41,0.0,0.76,0.28
+234,2020-08-15,Jim Miller,Vinc Pichel,100,-124,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,3,3.29,0.45,0.4,4.0,0.6,2.81,0.4,1.9,1.68,0.41
+235,2020-08-15,Ashley Yoder,Livinha Souza,130,-162,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Strawweight,3,1.79,0.37,1.9,3.35,0.5,3.1,0.42,0.5,1.33,0.38
+236,2020-08-15,Felice Herrig,Virna Jandiroba,240,-315,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Strawweight,3,1.13,0.42,2.1,4.23,0.46,3.69,0.36,0.9,1.2,0.3
+237,2020-08-15,Herbert Burns,Daniel Pineda,-286,225,"Las Vegas, Nevada, USA",USA,Blue,False,Featherweight,3,2.99,0.43,2.0,1.46,0.25,2.6,0.44,6.9,4.59,1.0
+238,2020-08-15,TJ Brown,Danny Chavez,-167,130,"Las Vegas, Nevada, USA",USA,Blue,False,Featherweight,3,0.0,0.0,0.0,0.0,0.0,3.47,0.54,0.7,8.33,0.85
+239,2020-08-15,Chris Daukaus,Parker Porter,-106,-118,"Las Vegas, Nevada, USA",USA,Red,False,Heavyweight,3,8.54,0.47,1.9,1.91,1.0,0.0,0.0,0.0,0.0,0.0
+240,2020-08-22,Pedro Munhoz,Frankie Edgar,-278,225,"Las Vegas, Nevada, USA",USA,Blue,False,Bantamweight,5,3.6,0.4,0.3,2.34,0.31,5.29,0.42,1.1,0.92,0.21
+241,2020-08-22,Marcin Prachnio,Mike Rodriguez,188,-240,"Las Vegas, Nevada, USA",USA,Blue,False,Light Heavyweight,3,4.3,0.52,0.0,0.0,0.0,2.39,0.39,0.0,0.0,0.0
+242,2020-08-22,Mariya Agapova,Shana Dobson,-1430,750,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Flyweight,3,3.63,0.34,0.0,0.39,0.25,3.84,0.51,0.8,0.0,0.0
+243,2020-08-22,Daniel Rodriguez,Dwight Grant,-230,180,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,2.87,0.36,0.0,0.36,1.0,8.6,0.48,0.4,1.94,0.83
+244,2020-08-22,Amanda Lemos,Mizuki Inoue,110,-137,"Las Vegas, Nevada, USA",USA,Red,False,Women's Strawweight,3,6.2,0.45,0.0,0.0,0.0,6.55,0.64,1.3,2.59,1.0
+245,2020-08-22,Austin Hubbard,Joe Solecki,-112,-112,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,3,3.67,0.76,0.8,3.99,0.83,3.53,0.48,0.0,0.82,0.6
+246,2020-08-22,Ike Villanueva,Jordan Wright,104,-129,"Las Vegas, Nevada, USA",USA,Blue,False,Light Heavyweight,3,3.0,0.28,0.0,0.0,0.0,2.75,0.29,0.0,0.0,0.0
+247,2020-08-22,Carlton Minus,Matthew Semelsberger,-118,-106,"Las Vegas, Nevada, USA",USA,Blue,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+248,2020-08-22,Timur Valiev,Trevin Jones,-560,387,"Las Vegas, Nevada, USA",USA,Blue,False,Catch Weight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+249,2020-08-29,Anthony Smith,Aleksandar Rakic,225,-278,"Las Vegas, Nevada, USA",USA,Blue,False,Light Heavyweight,3,5.17,0.52,0.3,1.2,0.28,3.19,0.46,0.7,0.45,0.27
+250,2020-08-29,Robbie Lawler,Neil Magny,200,-250,"Las Vegas, Nevada, USA",USA,Blue,False,Welterweight,3,3.95,0.47,0.3,2.55,0.44,3.57,0.45,0.0,0.71,0.66
+251,2020-08-29,Ji Yeon Kim,Alexa Grasso,230,-315,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Flyweight,3,5.25,0.41,0.6,0.19,0.33,4.49,0.33,0.0,0.0,0.0
+252,2020-08-29,Ricardo Lamas,Bill Algeo,-335,240,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,9.8,0.53,0.0,0.0,0.0,2.88,0.45,1.0,1.63,0.32
+253,2020-08-29,Maki Pitolo,Impa Kasanganay,115,-139,"Las Vegas, Nevada, USA",USA,Blue,False,Middleweight,3,5.53,0.58,0.0,2.5,1.0,4.95,0.45,0.6,2.27,0.66
+254,2020-08-29,Mallory Martin,Hannah Cifers,-315,239,"Las Vegas, Nevada, USA",USA,Red,False,Women's Strawweight,3,4.68,0.43,0.3,0.29,1.0,4.56,0.59,0.0,3.53,0.62
+255,2020-08-29,Alessio Di Chirico,Zak Cummings,-114,-109,"Las Vegas, Nevada, USA",USA,Blue,False,Middleweight,3,2.47,0.32,0.8,0.75,0.28,3.2,0.42,0.0,1.95,0.5
+256,2020-08-29,Alex Caceres,Austin Springer,-225,176,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,3.46,0.63,1.1,4.24,0.44,4.14,0.49,0.7,0.55,0.76
+257,2020-08-29,Polyana Viana,Emily Whitmire,110,-139,"Las Vegas, Nevada, USA",USA,Red,False,Women's Strawweight,3,2.84,0.31,0.6,1.18,0.66,3.89,0.41,1.3,1.29,0.37
+258,2020-08-29,Sean Brady,Christian Aguilera,-455,330,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,10.17,0.43,0.0,0.0,0.0,5.53,0.55,0.5,3.0,0.5
+259,2020-09-05,Alistair Overeem,Augusto Sakai,-159,130,"Las Vegas, Nevada, USA",USA,Red,False,Heavyweight,5,5.45,0.46,0.0,0.19,0.5,3.66,0.63,0.9,1.4,0.54
+260,2020-09-05,Ovince Saint Preux,Alonzo Menifield,110,-134,"Las Vegas, Nevada, USA",USA,Red,False,Light Heavyweight,3,3.75,0.47,0.0,0.0,0.0,2.6,0.46,0.6,1.27,0.4
+261,2020-09-05,Michel Pereira,Zelim Imadaev,-112,-112,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,3.69,0.41,0.0,0.6,0.5,3.04,0.51,0.0,2.0,0.57
+262,2020-09-05,Brian Kelleher,Ray Rodriguez,-380,315,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,1.24,0.32,0.0,2.32,0.5,4.45,0.4,0.8,1.2,0.25
+263,2020-09-05,Andre Muniz,Bartosz Fabinski,132,-165,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,2.22,0.7,0.0,7.17,0.7,2.27,0.59,1.4,2.83,0.35
+264,2020-09-05,Viviane Araujo,Montana De La Rosa,-182,145,"Las Vegas, Nevada, USA",USA,Red,False,Women's Flyweight,3,2.3,0.33,1.9,2.22,0.33,4.51,0.47,0.0,2.57,0.58
+265,2020-09-05,Cole Smith,Hunter Azure,185,-235,"Las Vegas, Nevada, USA",USA,Blue,False,Bantamweight,3,4.71,0.49,1.9,1.55,0.33,1.63,0.33,1.0,1.5,0.3
+266,2020-09-12,Michelle Waterson,Angela Hill,105,-125,"Las Vegas, Nevada, USA",USA,Red,False,Women's Strawweight,5,5.76,0.49,0.2,0.47,0.37,3.31,0.52,1.1,1.68,0.5
+267,2020-09-12,Ottman Azaitar,Khama Worthy,110,-137,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,3,4.44,0.5,0.9,0.0,0.0,7.61,0.5,0.0,0.0,0.0
+268,2020-09-12,Roxanne Modafferi,Andrea Lee,240,-335,"Las Vegas, Nevada, USA",USA,Red,False,Women's Flyweight,3,5.4,0.48,0.6,1.4,0.38,3.04,0.3,0.1,1.29,0.21
+269,2020-09-12,Ed Herman,Mike Rodriguez,195,-250,"Las Vegas, Nevada, USA",USA,Red,False,Light Heavyweight,3,4.59,0.54,0.0,0.0,0.0,3.33,0.49,1.2,2.2,0.48
+270,2020-09-12,Billy Quarantillo,Kyle Nelson,-250,195,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,2.73,0.36,2.8,1.41,0.16,7.43,0.79,3.1,1.34,0.42
+271,2020-09-12,Julia Avila,Sijara Eubanks,-305,230,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Bantamweight,3,4.95,0.41,0.0,2.0,0.5,3.9,0.42,0.0,0.0,0.0
+272,2020-09-12,Roosevelt Roberts,Kevin Croom,-385,286,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,3,0.0,0.0,0.0,0.0,0.0,3.02,0.49,1.1,1.77,0.57
+273,2020-09-12,Alexandr Romanov,Roque Martinez,-360,275,"Las Vegas, Nevada, USA",USA,Red,False,Heavyweight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+274,2020-09-12,Bobby Green,Alan Patrick,-295,227,"Las Vegas, Nevada, USA",USA,Red,False,Lightweight,3,1.88,0.43,0.4,3.92,0.4,5.22,0.5,0.4,1.33,0.36
+275,2020-09-12,Brok Weaver,Jalin Turner,306,-420,"Las Vegas, Nevada, USA",USA,Blue,False,Catch Weight,3,5.95,0.48,1.8,0.46,0.5,4.37,0.62,0.6,0.0,0.0
+276,2020-09-12,Bryan Barberena,Anthony Ivy,-278,215,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,4.07,0.36,0.0,0.0,0.0,5.65,0.48,0.3,0.26,0.33
+277,2020-09-12,Sabina Mazo,Justine Kish,-265,200,"Las Vegas, Nevada, USA",USA,Red,False,Women's Flyweight,3,4.28,0.49,0.2,1.0,0.35,6.44,0.45,0.0,1.33,1.0
+278,2020-09-19,Colby Covington,Tyron Woodley,-335,260,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,5,2.38,0.49,0.4,1.11,0.39,4.17,0.37,0.2,4.91,0.51
+279,2020-09-19,Khamzat Chimaev,Gerald Meerschaert,-400,300,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,3.31,0.42,1.7,2.34,0.43,8.88,0.72,3.2,4.81,0.75
+280,2020-09-19,Johnny Walker,Ryan Spann,-125,100,"Las Vegas, Nevada, USA",USA,Red,False,Light Heavyweight,3,3.32,0.43,1.9,1.13,0.3,4.01,0.7,1.3,0.43,1.0
+281,2020-09-19,Mackenzie Dern,Randa Markos,-177,140,"Las Vegas, Nevada, USA",USA,Red,False,Women's Strawweight,3,2.96,0.41,0.2,1.35,0.28,3.14,0.32,1.3,0.43,0.07
+282,2020-09-19,Kevin Holland,Darren Stewart,-265,205,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,2.97,0.43,0.2,1.32,0.42,4.65,0.55,1.0,1.12,0.43
+283,2020-09-19,Jordan Espinosa,David Dvorak,-112,-112,"Las Vegas, Nevada, USA",USA,Blue,False,Flyweight,3,4.47,0.5,0.0,0.0,0.0,5.49,0.6,0.3,1.19,0.3
+284,2020-09-19,Mirsad Bektic,Damon Jackson,-375,277,"Las Vegas, Nevada, USA",USA,Blue,False,Featherweight,3,2.71,0.35,0.0,1.77,0.2,2.59,0.41,0.5,3.32,0.47
+285,2020-09-19,Mayra Bueno Silva,Mara Romero Borella,-275,210,"Las Vegas, Nevada, USA",USA,Red,False,Women's Flyweight,3,2.54,0.37,0.2,1.66,0.43,4.87,0.54,1.4,0.0,0.0
+286,2020-09-19,Jessica-Rose Clark,Sarah Alpar,-230,180,"Las Vegas, Nevada, USA",USA,Red,False,Women's Bantamweight,3,4.42,0.61,1.9,3.79,0.66,4.53,0.47,0.5,1.0,0.5
+287,2020-09-19,Darrick Minner,TJ Laramie,245,-335,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,3.2,0.59,0.0,3.0,1.0,2.3,0.55,3.3,1.65,0.33
+288,2020-09-19,Journey Newson,Randy Costa,-137,110,"Las Vegas, Nevada, USA",USA,Blue,False,Bantamweight,3,8.05,0.46,0.0,0.0,0.0,2.81,0.33,1.0,0.0,0.0
+289,2020-09-19,Andre Ewell,Irwin Rivera,-240,187,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,2.33,0.41,0.0,1.0,0.22,3.74,0.4,0.0,0.21,0.5
+290,2020-09-19,Tyson Nam,Jerome Rivera,-190,150,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,3.2,0.45,0.0,0.0,0.0,3.01,0.28,0.0,0.0,0.0
+291,2020-09-26,Israel Adesanya,Paulo Costa,-186,151,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,True,Middleweight,5,8.43,0.57,0.0,0.0,0.0,3.96,0.48,0.3,0.0,0.0
+292,2020-09-26,Dominick Reyes,Jan Blachowicz,-265,215,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,True,Light Heavyweight,5,3.45,0.48,0.3,1.16,0.52,4.88,0.49,0.2,0.24,0.16
+293,2020-09-26,Kai Kara-France,Brandon Royval,-240,188,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Flyweight,3,1.93,0.48,3.6,1.81,1.0,5.27,0.38,0.0,0.6,0.25
+294,2020-09-26,Ketlen Vieira,Sijara Eubanks,-190,150,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Bantamweight,3,4.71,0.42,0.5,2.17,0.48,2.74,0.35,0.8,2.03,0.57
+295,2020-09-26,Hakeem Dawodu,Zubaira Tukhugov,115,-143,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Featherweight,3,2.58,0.38,0.0,2.88,0.56,5.28,0.46,0.0,0.0,0.0
+296,2020-09-26,Brad Riddell,Alex Da Silva,-335,253,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Lightweight,3,1.08,0.43,0.0,2.59,0.57,4.3,0.57,0.0,1.0,1.0
+297,2020-09-26,Diego Sanchez,Jake Matthews,470,-715,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Welterweight,3,2.98,0.46,0.7,2.2,0.41,2.73,0.38,0.9,1.57,0.24
+298,2020-09-26,Shane Young,Ludovit Klein,108,-129,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Featherweight,3,0.0,0.0,0.0,0.0,0.0,6.1,0.4,0.0,0.76,0.25
+299,2020-09-26,William Knight,Aleksa Camur,134,-167,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Light Heavyweight,3,5.96,0.53,0.0,0.72,0.5,6.61,0.78,0.0,3.54,0.57
+300,2020-09-26,Juan Espino,Jeff Hughes,-305,233,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Heavyweight,3,4.34,0.51,0.0,0.78,0.5,6.11,0.95,8.3,8.33,1.0
+301,2020-09-26,Khadis Ibragimov,Danilo Marques,-182,150,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Light Heavyweight,3,0.0,0.0,0.0,0.0,0.0,4.64,0.51,0.0,1.44,0.3
+302,2020-10-03,Holly Holm,Irene Aldana,-125,103,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Bantamweight,5,6.16,0.38,0.1,0.28,0.5,2.75,0.35,0.1,0.5,0.27
+303,2020-10-03,Yorgan De Castro,Carlos Felipe,-265,205,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Heavyweight,3,2.93,0.36,0.0,0.0,0.0,2.19,0.41,0.0,0.0,0.0
+304,2020-10-03,Germaine de Randamie,Julianna Pena,-150,122,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Bantamweight,3,2.96,0.51,0.9,2.6,0.52,2.72,0.47,0.2,0.0,0.0
+305,2020-10-03,Kyler Phillips,Cameron Else,-480,342,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Bantamweight,3,0.0,0.0,0.0,0.0,0.0,6.53,0.53,0.9,1.9,0.5
+306,2020-10-03,Dequan Townsend,Dusko Todorovic,245,-335,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Middleweight,3,6.8,0.71,0.0,0.0,0.0,1.15,0.35,0.0,0.0,0.0
+307,2020-10-03,Carlos Condit,Court McGee,111,-137,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Welterweight,3,4.86,0.35,0.4,1.71,0.21,3.56,0.39,1.2,0.58,0.55
+308,2020-10-03,Jordan Williams,Nassourdine Imavov,-125,105,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Middleweight,3,0.0,0.0,0.0,0.0,0.0,8.05,0.55,0.0,1.45,1.0
+309,2020-10-03,Loma Lookboonmee,Jinh Yu Frey,-150,120,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Strawweight,3,2.09,0.56,0.0,0.0,0.0,5.07,0.54,0.0,1.0,0.28
+310,2020-10-03,Casey Kenney,Heili Alateng,-335,246,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Bantamweight,3,2.77,0.37,0.0,3.5,0.35,3.66,0.42,0.8,1.35,0.5
+311,2020-10-03,Luigi Vendramini,Jessin Ayari,-109,-114,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Lightweight,3,3.58,0.38,0.3,0.0,0.0,0.63,0.23,2.4,0.0,0.0
+312,2020-10-10,Marlon Moraes,Cory Sandhagen,115,-141,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Bantamweight,5,6.95,0.48,0.6,1.2,0.5,3.53,0.39,0.5,0.46,0.25
+313,2020-10-10,Edson Barboza,Makwan Amirkhani,-286,225,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Featherweight,3,1.55,0.46,1.6,3.45,0.36,4.08,0.43,0.1,0.46,0.44
+314,2020-10-10,Ben Rothwell,Marcin Tybura,-159,130,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Heavyweight,3,3.32,0.5,0.1,1.69,0.48,3.37,0.43,0.3,0.68,0.33
+315,2020-10-10,Markus Perez,Dricus Du Plessis,133,-167,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Middleweight,3,0.0,0.0,0.0,0.0,0.0,2.75,0.48,1.1,1.08,0.26
+316,2020-10-10,Tom Aspinall,Alan Baudot,-560,400,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Heavyweight,3,0.0,0.0,0.0,0.0,0.0,13.33,0.1,0.0,0.0,0.0
+317,2020-10-10,Youssef Zalal,Ilia Topuria,-162,130,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Featherweight,3,0.0,0.0,0.0,0.0,0.0,3.2,0.55,1.7,3.0,0.47
+318,2020-10-10,Tom Breese,KB Bhullar,-275,210,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Middleweight,3,0.0,0.0,0.0,0.0,0.0,3.55,0.5,0.3,0.0,0.0
+319,2020-10-10,Chris Daukaus,Rodrigo Nascimento,205,-265,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Heavyweight,3,4.44,0.56,2.9,2.9,1.0,8.28,0.62,0.0,0.0,0.0
+320,2020-10-10,Impa Kasanganay,Joaquin Buckley,-265,200,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Middleweight,3,3.8,0.33,0.0,0.0,0.0,5.58,0.52,0.0,1.67,0.83
+321,2020-10-10,Ali AlQaisi,Tony Kelley,190,-245,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Bantamweight,3,7.6,0.5,0.0,0.0,0.0,2.93,0.41,1.0,2.0,0.22
+322,2020-10-10,Giga Chikadze,Omar Morales,136,-175,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Featherweight,3,3.85,0.37,0.0,0.42,1.0,3.31,0.44,0.0,0.51,0.5
+323,2020-10-10,Tracy Cortez,Stephanie Egger,-205,160,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Bantamweight,3,0.0,0.0,0.0,0.0,0.0,4.83,0.54,0.0,3.0,0.37
+324,2020-10-10,Bruno Silva,Tagir Ulanbekov,321,-455,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Flyweight,3,0.0,0.0,0.0,0.0,0.0,2.32,0.44,0.0,2.68,0.22
+325,2020-10-17,Brian Ortega,Chan Sung Jung,160,-200,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Featherweight,5,4.58,0.41,0.6,0.78,0.41,4.07,0.33,1.4,0.51,0.16
+326,2020-10-17,Katlyn Chookagian,Jessica Andrade,130,-159,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Women's Flyweight,3,6.4,0.49,0.4,3.02,0.57,4.19,0.35,0.5,0.31,0.15
+327,2020-10-17,Jimmy Crute,Modestas Bukauskas,-335,250,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Light Heavyweight,3,3.6,0.36,0.0,0.0,0.0,4.08,0.55,2.6,4.63,0.81
+328,2020-10-17,Claudio Silva,James Krause,120,-150,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Welterweight,3,4.65,0.48,1.0,1.05,0.18,2.8,0.51,2.1,3.32,0.33
+329,2020-10-17,Thomas Almeida,Jonathan Martinez,-139,110,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Featherweight,3,4.22,0.5,0.0,0.64,0.37,5.66,0.45,0.0,0.0,0.0
+330,2020-10-17,Mateusz Gamrot,Guram Kutateladze,-335,245,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Lightweight,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+331,2020-10-17,Gillian Robertson,Poliana Botelho,-215,169,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Flyweight,3,3.65,0.58,0.0,1.27,1.0,1.96,0.48,1.2,3.33,0.52
+332,2020-10-17,Junyong Park,John Phillips,-278,215,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Middleweight,3,2.25,0.34,0.0,0.0,0.0,6.41,0.47,0.0,3.04,0.5
+333,2020-10-17,Jamie Mullarkey,Fares Ziam,-137,110,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Lightweight,3,0.67,0.32,0.0,0.0,0.0,2.4,0.37,1.0,3.0,0.2
+334,2020-10-17,Gadzhimurad Antigulov,Maxim Grishin,277,-375,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Light Heavyweight,3,1.2,0.56,0.0,0.0,0.0,2.89,0.56,2.8,8.4,0.42
+335,2020-10-17,Said Nurmagomedov,Mark Striegl,-435,317,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Bantamweight,3,0.0,0.0,0.0,0.0,0.0,4.22,0.44,0.0,0.46,0.07
+336,2020-10-24,Khabib Nurmagomedov,Justin Gaethje,-315,255,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,True,Lightweight,5,7.74,0.59,0.0,0.0,0.0,4.11,0.49,0.7,5.35,0.47
+337,2020-10-24,Robert Whittaker,Jared Cannonier,-110,-110,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Middleweight,3,3.72,0.51,0.0,0.18,0.33,4.51,0.4,0.0,0.46,0.3
+338,2020-10-24,Alexander Volkov,Walt Harris,-190,150,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Heavyweight,3,2.97,0.39,0.2,0.32,0.33,4.65,0.58,0.2,0.72,0.7
+339,2020-10-24,Jacob Malkoun,Phillip Hawes,195,-250,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Middleweight,3,3.47,0.46,0.0,1.74,0.14,0.0,0.0,0.0,0.0,0.0
+340,2020-10-24,Lauren Murphy,Liliya Shakirova,-215,170,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Women's Flyweight,3,0.0,0.0,0.0,0.0,0.0,3.88,0.39,0.0,1.14,0.35
+341,2020-10-24,Magomed Ankalaev,Ion Cutelaba,-335,250,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Light Heavyweight,3,5.29,0.39,0.0,2.59,0.71,3.46,0.56,0.0,0.68,0.33
+342,2020-10-24,Stefan Struve,Tai Tuivasa,-112,-112,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Heavyweight,3,4.09,0.48,0.0,0.0,0.0,3.13,0.47,1.7,0.58,0.5
+343,2020-10-24,Nathaniel Wood,Casey Kenney,140,-177,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Catch Weight,3,4.25,0.42,0.6,1.13,0.46,5.52,0.48,1.1,1.65,0.6
+344,2020-10-24,Alex Oliveira,Shavkat Rakhmonov,-112,-112,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,2.89,0.5,0.6,2.47,0.37
+345,2020-10-24,Liana Jojua,Miranda Maverick,295,-400,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Women's Flyweight,3,0.0,0.0,0.0,0.0,0.0,1.39,0.43,3.0,1.98,0.66
+346,2020-10-24,Joel Alvarez,Alexander Yakovlev,-175,138,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Red,False,Lightweight,3,1.79,0.47,0.2,1.56,0.33,3.03,0.36,0.6,0.0,0.0
+347,2020-10-31,Uriah Hall,Anderson Silva,-230,185,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,5,3.04,0.62,0.8,0.52,0.77,3.31,0.5,0.2,0.75,0.38
+348,2020-10-31,Bryce Mitchell,Andre Fili,-150,120,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,3.9,0.36,0.2,2.71,0.49,2.05,0.59,2.7,2.13,0.41
+349,2020-10-31,Maurice Greene,Greg Hardy,250,-335,"Las Vegas, Nevada, USA",USA,Blue,False,Heavyweight,3,4.48,0.48,0.0,0.0,0.0,4.31,0.44,0.7,0.0,0.0
+350,2020-10-31,Kevin Holland,Charlie Ontiveros,-770,500,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,0.0,0.0,0.0,0.0,0.0,4.69,0.56,0.8,0.96,0.36
+351,2020-10-31,Bobby Green,Thiago Moises,-335,245,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,3,2.68,0.43,1.6,1.1,0.28,5.13,0.51,0.4,1.53,0.39
+352,2020-10-31,Chris Gruetzemacher,Alexander Hernandez,315,-435,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,3,3.17,0.38,0.0,2.15,0.38,7.12,0.58,0.0,0.0,0.0
+353,2020-10-31,Adrian Yanez,Victor Rodriguez,-500,356,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,0.0,0.0,0.0,0.0,0.0,10.77,0.7,0.0,0.0,0.0
+354,2020-10-31,Sean Strickland,Jack Marshman,-375,277,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,2.64,0.28,0.0,0.0,0.0,4.34,0.35,0.5,1.37,0.57
+355,2020-10-31,Cole Williams,Jason Witt,119,-148,"Las Vegas, Nevada, USA",USA,Blue,False,Welterweight,3,2.5,0.4,0.0,0.0,0.0,0.77,0.33,0.0,0.0,0.0
+356,2020-10-31,Dustin Jacoby,Justin Ledet,-400,296,"Las Vegas, Nevada, USA",USA,Red,False,Light Heavyweight,3,3.33,0.39,0.2,0.24,0.5,3.4,0.46,0.0,0.3,1.0
+357,2020-10-31,Miles Johns,Kevin Natividad,-165,131,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,0.0,0.0,0.0,0.0,0.0,3.19,0.49,0.0,1.64,0.66
+358,2020-11-07,Thiago Santos,Glover Teixeira,-240,190,"Las Vegas, Nevada, USA",USA,Blue,False,Light Heavyweight,5,3.74,0.47,0.9,1.87,0.38,4.44,0.47,0.1,0.83,0.4
+359,2020-11-07,Andrei Arlovski,Tanner Boser,235,-305,"Las Vegas, Nevada, USA",USA,Red,False,Heavyweight,3,4.54,0.54,0.0,0.0,0.0,3.54,0.44,0.3,0.5,0.36
+360,2020-11-07,Raoni Barcelos,Khalid Taha,-400,295,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,2.64,0.5,0.5,0.0,0.0,4.79,0.5,0.7,2.31,0.58
+361,2020-11-07,Claudia Gadelha,Yan Xiaonan,125,-155,"Las Vegas, Nevada, USA",USA,Blue,False,Women's Strawweight,3,6.72,0.42,0.0,1.2,0.75,3.4,0.41,0.7,3.13,0.45
+362,2020-11-07,Trevin Giles,Bevon Lewis,100,-125,"Las Vegas, Nevada, USA",USA,Red,False,Middleweight,3,4.05,0.45,0.0,0.0,0.0,3.61,0.56,0.2,1.47,1.0
+363,2020-11-07,Giga Chikadze,Jamey Simmons,-835,525,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,0.0,0.0,0.0,0.0,0.0,3.52,0.43,0.0,0.4,0.4
+364,2020-11-07,Alexandr Romanov,Marcos Rogerio de Lima,-455,330,"Las Vegas, Nevada, USA",USA,Red,False,Heavyweight,3,3.78,0.54,0.8,0.76,0.6,5.87,0.37,3.2,6.41,1.0
+365,2020-11-07,Darren Elkins,Eduardo Garagorri,-240,185,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3,3.75,0.54,0.0,0.79,1.0,3.54,0.37,1.2,2.43,0.33
+366,2020-11-07,Max Griffin,Ramiz Brahimaj,-143,115,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3,0.0,0.0,0.0,0.0,0.0,3.87,0.49,0.5,1.9,0.55
+367,2020-11-07,Gustavo Lopez,Anthony Birchak,-134,108,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3,3.98,0.35,0.0,0.68,0.16,0.93,0.24,0.0,0.0,0.0
