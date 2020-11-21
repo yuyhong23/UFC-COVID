@@ -1,6 +1,4 @@
 ,Event ID,Date,Short Name,Name,Date Time,Red Fighter Name,Blue Fighter Name,American Odd that Red Fighter Will Win,American Odd that Blue Fighter Will Win,Location,Country,Winner of the Fight,Title Bout?,Weight Class,Number of Rounds in Fight,Blue Significant Strikes Landed/min,Blue Significant Striking Accuracy,Blue Average Submissions Attempted/15min,Blue Average Takedowns Landed/15min,Blue Takedown Accuracy,Red Significant Strikes Landed/min,Red Significant Striking Accuracy,Red Average Submissions Attempted/15min,Red Average Takedowns Landed/15min,Red Takedown Accuracy
-0,103,2020-01-18,UFC 246,UFC 246: McGregor vs. Cowboy,2020-01-18T19:00:00,,,,,,,,,,,,,,,,,,,,
-1,104,2020-01-25,UFC Fight Night,UFC Fight Night: Blaydes vs. Dos Santos,2020-01-25T17:00:00,,,,,,,,,,,,,,,,,,,,
 2,105,2020-02-08,UFC 247,UFC 247: Jones vs. Reyes,2020-02-08T18:30:00,Jon Jones,Dominick Reyes,-460.0,365.0,"Houston, Texas, USA", USA,Red,True,Light Heavyweight,5.0,5.03,0.52,0.4,0.39,0.16,4.31,0.57,0.5,1.9,0.46
 3,105,2020-02-08,UFC 247,UFC 247: Jones vs. Reyes,2020-02-08T18:30:00,Valentina Shevchenko,Katlyn Chookagian,-920.0,610.0,"Houston, Texas, USA", USA,Red,True,Women's Flyweight,5.0,4.35,0.32,0.1,0.0,0.0,3.02,0.49,0.4,1.94,0.51
 4,105,2020-02-08,UFC 247,UFC 247: Jones vs. Reyes,2020-02-08T18:30:00,Juan Adams,Justin Tafa,-240.0,200.0,"Houston, Texas, USA", USA,Blue,False,Heavyweight,3.0,2.77,0.66,0.0,0.0,0.0,7.32,0.55,0.0,0.97,0.66
@@ -369,4 +367,3 @@
 367,162,2020-11-07,UFC Fight Night,UFC Fight Night: Santos vs. Teixeira,2020-11-07T19:30:00,Darren Elkins,Eduardo Garagorri,-240.0,185.0,"Las Vegas, Nevada, USA",USA,Red,False,Featherweight,3.0,3.75,0.54,0.0,0.79,1.0,3.54,0.37,1.2,2.43,0.33
 368,162,2020-11-07,UFC Fight Night,UFC Fight Night: Santos vs. Teixeira,2020-11-07T19:30:00,Max Griffin,Ramiz Brahimaj,-143.0,115.0,"Las Vegas, Nevada, USA",USA,Red,False,Welterweight,3.0,0.0,0.0,0.0,0.0,0.0,3.87,0.49,0.5,1.9,0.55
 369,162,2020-11-07,UFC Fight Night,UFC Fight Night: Santos vs. Teixeira,2020-11-07T19:30:00,Gustavo Lopez,Anthony Birchak,-134.0,108.0,"Las Vegas, Nevada, USA",USA,Red,False,Bantamweight,3.0,3.98,0.35,0.0,0.68,0.16,0.93,0.24,0.0,0.0,0.0
-370,148,2020-11-14,UFC Fight Night,UFC Fight Night: Felder vs. Dos Anjos,2020-11-14T17:00:00,,,,,,,,,,,,,,,,,,,,
