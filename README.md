@@ -103,6 +103,17 @@ With all this speculation, it’s time to put these questions to rest and put da
   
   - Conda Environment used: PythonData
   
+# Files
+ 
+ - Cleaning.ipynb
+    - Where the data cleaning process happened
+ 
+ - Project_One_Visualization_and_Analysis-workcopy.ipynb
+    - Where we created graphs for analysis
+ 
+ - Fight Island.pptx
+    - Our presentation slides
+  
 # Data Resources:
 
 - http://www.ufcstats.com/statistics/events/completed
