@@ -117,4 +117,7 @@ Visualization:
 - https://www.kite.com/python/answers/how-to-set-the-font-size-of-the-figure-title-and-axis-labels-in-a-matplotlib-graph-in-python
 - https://stackoverflow.com/questions/34001751/python-how-to-increase-reduce-the-fontsize-of-x-and-y-tick-labels/34004236
 
-
+Website Articles:
+- https://www.essentiallysports.com/its-an-illusion-dana-white-says-smaller-cage-not-an-issue-ufc-news/
+- https://www.sportskeeda.com/mma/is-smaller-cage-truly-better-cage
+- https://www.bjpenn.com/mma-news/ufc/john-mccarthy-explains-why-the-ufc-prefers-to-use-a-smaller-cage/
