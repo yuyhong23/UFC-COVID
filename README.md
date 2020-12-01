@@ -2,7 +2,7 @@
 
 ## Project Name: Fight Island
 
-![Project Logo](fight_island.png)
+![Project Logo](https://raw.githubusercontent.com/yuyhong23/UCB_BootCamp_Project_One/main/Fight_Island.png)
 
 First Project for UC Berkeley Extension Data Analytics Bootcamp.
 
