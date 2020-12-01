@@ -1,6 +1,6 @@
 # UCB Bootcamp Project 1
 
-## Project Name: Fight Island
+## Project Name: Fight Island: Keeping the Fight Alive
 
 ![Project Logo](https://raw.githubusercontent.com/yuyhong23/UCB_BootCamp_Project_One/main/Fight_Island.png)
 
