@@ -1,5 +1,9 @@
 # UCB Bootcamp Project 1
 
+## Project Name: Fight Island
+
+![Project Logo](fight_island.png)
+
 First Project for UC Berkeley Extension Data Analytics Bootcamp.
 
 Data and instructions provided by UC Berkeley Extension Data Analytics Bootcamp.
@@ -43,6 +47,17 @@ If there is a changed in significant strikes (landing a punch), if accuracy has 
 A more off topic but fun topic we decided to delve into is the betting world: as more people have had time to stay at home during COVID we will see if people have gained some new knowledge, such as if their betting predictions have been more accurate.
 
 With all this speculation, it’s time to put these questions to rest and put data to good use.
+
+#### Result
+
+- Decreased Cage Size: Does it make a difference with results or more action? 
+  - Not significantly enough!
+ 
+- Any changes in results by weight class?
+  - For some weight classes, yes
+
+- Have betting odds gotten more accurate since COVID?
+  - Betting odds have been 10% more accurate!
 
 #### Technical Requirement
 
