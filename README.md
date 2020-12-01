@@ -1,16 +1,14 @@
 # UCB Bootcamp Project 1
 
-## Project Name- "Fight Island: Keeping the Fight Alive"
-
-![Project Logo](https://raw.githubusercontent.com/yuyhong23/UCB_BootCamp_Project_One/main/Fight_Island.png)
-
 First Project for UC Berkeley Extension Data Analytics Bootcamp.
 
 Data and instructions provided by UC Berkeley Extension Data Analytics Bootcamp.
 
-Group Members: Madhav Srivastava, Robert Smith, Yuying Hong
+## Project Name- "Fight Island: Keeping the Fight Alive"
 
-Project Name: Fight Island 
+![Project Logo](https://raw.githubusercontent.com/yuyhong23/UCB_BootCamp_Project_One/main/Fight_Island.png)
+
+###### Group Members: Madhav Srivastava, Robert Smith, Yuying Hong
 
 Using what we have learned so far to create a project from scratch.
 
