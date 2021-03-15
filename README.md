@@ -1,4 +1,4 @@
-# UCB Bootcamp Project 1
+# UFC & COVID 19
 
 First Project for UC Berkeley Extension Data Analytics Bootcamp.
 
