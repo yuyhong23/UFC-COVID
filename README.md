@@ -56,18 +56,14 @@ With all this speculation, it’s time to put these questions to rest and put da
 - Any changes in results by weight class?
   - For some weight classes, yes
 
-![weightclass1](Images/first_4_weight_classes%.png)
-
-![weightclass2](Images/second_4_weight_classes%.png)
-
-![weightclass3](Images/women_group_weight_classes%.png)
+![weightclass](Images/fight_result_weight_classes%.png)
 
 - Have betting odds gotten more accurate since COVID?
   - Betting odds have been 10% more accurate!
 
 ![pre_betting](Images/Pre_Covid_betting_pie.png)
 
-![during_betting](Images/During_Covid_betting_pie.png)
+![during_betting](Images/During_Covid__betting_pie.png)
 
 #### Technical Requirement
 
