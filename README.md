@@ -50,12 +50,29 @@ With all this speculation, it’s time to put these questions to rest and put da
 
 - Decreased Cage Size: Does it make a difference with results or more action? 
   - Not significantly enough!
- 
+  
+![action_results](Images/Pre_and_during_covid_fight_stats_bar.png)
+
 - Any changes in results by weight class?
   - For some weight classes, yes
 
+First 4 weight classes
+![weightclass1](Images/first_4_weight_classes%.png)
+
+Second 4 weight classes
+![weightclass2](Images/second_4_weight_classes%.png)
+
+Women group weight classes
+![weightclass3](Images/women_group_weight_classes%.png)
+
 - Have betting odds gotten more accurate since COVID?
   - Betting odds have been 10% more accurate!
+
+Pre-COVID Betting Odds
+![pre_betting](Images/Pre_Covid_betting_pie.png)
+
+During-COVID Betting Odds
+![during_betting](Images/During_Covid_betting_pie.png)
 
 #### Technical Requirement
 
